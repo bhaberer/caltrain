@@ -1,0 +1,20 @@
+%h1 Listing stations
+
+%table
+  %thead
+    %tr
+      %th Name
+      %th Zone
+      %th Order
+      %th
+      %th
+      %th
+
+  %tbody
+    - @stations.each do |station|
+      %tr
+        %td= station.name
+        %td= station.zone
+        %td= station.order
+        %td= link_to 'Show', station
+        %td= link_to 'Edit', edit_station_path(station)

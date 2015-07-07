@@ -17,6 +17,17 @@ Bundler.require(*Rails.groups)
 
 module Caltrain
   class Application < Rails::Application
+    config.generators do |g|
+      g.template_engine :haml
+      g.test_framework :rspec
+      g.fixture_replacement :factory_girl
+    end
+
+    config.time_zone = "Pacific Time (US & Canada)"
+
+    # Configure the default encoding used in templates for Ruby 1.9.
+    config.encoding = "utf-8"
+
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
