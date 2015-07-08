@@ -10,6 +10,11 @@
     = f.label :name
     = f.text_field :name
   .field
+    = f.label :zone
+    = f.select :zone do
+      - (1..6).each do |zone_num|
+        = content_tag(:option, zone_num, value: zone_num)
+  .field
     = f.label :order
     = f.number_field :order
   .actions

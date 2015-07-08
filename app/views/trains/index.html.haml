@@ -13,11 +13,6 @@
     - @trains.each do |train|
       %tr
         %td= train.number
-        %td= train.type
+        %td= train.schedule_type
         %td= link_to 'Show', train
         %td= link_to 'Edit', edit_train_path(train)
-        %td= link_to 'Destroy', train, :method => :delete, :data => { :confirm => 'Are you sure?' }
-
-%br
-
-= link_to 'New Train', new_train_path

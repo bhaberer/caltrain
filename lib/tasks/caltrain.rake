@@ -1,8 +1,19 @@
 namespace :caltrain do
+  namespace :purge do
+    desc 'Purge all Stations'
+    task stations: :environment do
+      Station.all.each(&:destroy)
+    end
+
+    desc 'Purge all Trains'
+    task trains: :environment do
+      Train.all.each(&:destroy)
+    end
+  end
+
   namespace :populate do
     desc 'populate the Stations based on the stations.yml'
     task stations: :environment do
-      Station.all.each(&:destroy)
       File.open(Rails.root.join('lib', 'tasks', 'stations.yml')) do |file|
         stations = YAML.load_file(file)
         stations.each { |station| Station.create!(station) }
