@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150707183746) do
+ActiveRecord::Schema.define(version: 20150707231208) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -24,19 +24,23 @@ ActiveRecord::Schema.define(version: 20150707183746) do
     t.integer  "zone"
   end
 
-  create_table "stations_trains", id: false, force: :cascade do |t|
-    t.integer "station_id"
-    t.integer "train_id"
-  end
-
-  add_index "stations_trains", ["station_id"], name: "index_stations_trains_on_station_id", using: :btree
-  add_index "stations_trains", ["train_id"], name: "index_stations_trains_on_train_id", using: :btree
-
-  create_table "trains", force: :cascade do |t|
-    t.integer  "number"
-    t.string   "type"
+  create_table "stops", force: :cascade do |t|
+    t.string   "time"
+    t.integer  "train_id"
+    t.integer  "station_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
+  add_index "stops", ["station_id"], name: "index_stops_on_station_id", using: :btree
+  add_index "stops", ["train_id"], name: "index_stops_on_train_id", using: :btree
+
+  create_table "trains", force: :cascade do |t|
+    t.integer  "number"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_foreign_key "stops", "stations"
+  add_foreign_key "stops", "trains"
 end
