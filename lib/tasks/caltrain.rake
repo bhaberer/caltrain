@@ -61,10 +61,11 @@ namespace :caltrain do
       File.open(Rails.root.join('lib', 'tasks', 'stops.yml')) do |file|
         stops = YAML.load_file(file)
         stops.each_pair do |train_num, times|
-          train = Train.find_or_create_by(number: train_num)
+          train = Train.find_or_create_by(number: train_num.to_s.to_i)
           times.each_with_index do |time, order_number|
+            next if time == 'NONE'
             station = Station.where(order: order_number).first
-            Stop.create(time: time, station: station, train: train)
+            stop = Stop.create!(time: time, station: station, train: train)
           end
         end
       end
@@ -83,7 +84,7 @@ namespace :caltrain do
             stop = ws[row, col]
             stops << stop unless stop.blank?
           end
-          all_stops[train_num] = stops
+          all_stops[train_num.to_s.to_i] = stops
         end
       end
     end
