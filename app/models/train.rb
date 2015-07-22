@@ -1,10 +1,20 @@
 # Class to manage Train information
 class Train < ActiveRecord::Base
   has_many :stops, dependent: :destroy
+  has_many :stations, through: :stops
 
-  validates :number, presence: :true,
+  validates :number, presence: true,
+                     uniqueness: true,
                      numericality: true,
                      length: { is: 3 }
+
+  def to_param
+    number.to_s
+  end
+
+  def self.find_by_param(input)
+    find_by_number(input.to_i)
+  end
 
   def schedule_type
     case number.to_s[0].to_i
@@ -14,7 +24,21 @@ class Train < ActiveRecord::Base
     end
   end
 
+  def weekend?
+    [4, 8].include?(number.to_s[0].to_i)
+  end
+
+  def weekday?
+    !weekend?
+  end
+
   def direction
     number.even? ? :southbound : :northbound
+  end
+
+  [:southbound, :northbound].each do |dir|
+    define_method "#{dir}?" do
+      dir == direction
+    end
   end
 end
