@@ -1,12 +1,8 @@
-%p#notice= notice
-
-%p
-  %b Number:
-  = @train.number
-%p
-  %b Type:
-  = @train.type
-
-= link_to 'Edit', edit_train_path(@train)
-\|
-= link_to 'Back', trains_path
+%table.table.table-striped
+  %tr
+    %th{ colspan: 2 }
+      = @train.number
+  - @stops.each do |stop|
+    %tr
+      %td= stop.time
+      %td= stop.station.name
