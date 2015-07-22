@@ -1,18 +1,15 @@
 %h1 Listing trains
 
-%table
+%table.table.table-striped
   %thead
     %tr
       %th Number
       %th Type
       %th
-      %th
-      %th
 
   %tbody
     - @trains.each do |train|
       %tr
-        %td= train.number
+        %td= link_to train.number, train
         %td= train.schedule_type
-        %td= link_to 'Show', train
         %td= link_to 'Edit', edit_train_path(train)
