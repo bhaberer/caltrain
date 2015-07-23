@@ -1,12 +1,29 @@
-%p#notice= notice
+%h1= @station.name
+%h2 Zone: #{@station.zone}
 
-%p
-  %b Name:
-  = @station.name
-%p
-  %b Order:
-  = @station.order
+%h3 Next Northbound train:
+%h3 Next Southbound train:
 
-= link_to 'Edit', edit_station_path(@station)
-\|
-= link_to 'Back', stations_path
+.row
+  .col-md-6
+    - if @station.last?
+      %h2 No Trains leave southbound from this station.
+    - else
+      %table.table.table-striped
+        %tr
+          %th{ colspan: 3 } Southbound Departures
+        - @south.each do |stop|
+          %tr
+            %td= link_to stop.train_number, stop.train
+            %td= stop.time
+  .col-md-6
+    - if @station.first?
+      %h2 No Trains leave northbound from this station.
+    - else
+      %table.table.table-striped
+        %tr
+          %th{ colspan: 2 } Northbound Departures
+        - @north.each do |stop|
+          %tr
+            %td= link_to stop.train_number, stop.train
+            %td= stop.time

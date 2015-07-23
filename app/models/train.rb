@@ -42,7 +42,7 @@ class Train < ActiveRecord::Base
     end
 
     define_method "#{dir}bound?" do
-      dir?
+      dir == direction
     end
   end
 end

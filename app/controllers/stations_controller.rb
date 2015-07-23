@@ -6,6 +6,8 @@ class StationsController < ApplicationController
   end
 
   def show
+    @south = @station.stops.where(direction: :south)
+    @north = @station.stops.where(direction: :north)
   end
 
   def new
