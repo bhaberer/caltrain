@@ -2,9 +2,11 @@
 %html{ 'xml:lang' => :en, lang: :en, xmlns: 'http://www.w3.org/1999/xhtml' }
   %head
     %title Caltrain
+    %meta{ name: :viewport, content: 'width=device-width, initial-scale=1' }
     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true
     = javascript_include_tag 'application', 'data-turbolinks-track' => true
     = csrf_meta_tags
+
   %body
     .navbar.navbar-inverse.navbar-fixed-top
       .container
@@ -19,7 +21,7 @@
           = link_to 'Caltrain', '#', :class => 'navbar-brand'
         .collapse.navbar-collapse#navbar-collapse
           %ul.navbar-nav.nav
-            %li.active= link_to 'Schudules', '#'
+            %li.active= link_to 'Schedules', '#'
             %li= link_to 'Trains', trains_path, { 'tabindex' => '-1' }
             %li= link_to 'Stations', stations_path, { 'tabindex' => '-1' }
             %li= link_to 'Full Schedules', '#', { 'tabindex' => '-1' }
@@ -30,12 +32,15 @@
               %ul.dropdown-menu
                 %li= link_to 'Caltrain Website','#', { 'tabindex' => '-1' }
                 %li= link_to 'Caltrain Twitter', '#', { 'tabindex' => '-1' }
-    .container{ id: [params[:controller], '_', params[:action]].join, style: 'margin-top: 60px;' }
+    .container{ id: [params[:controller], '_', params[:action]].join, style: 'margin-top: 60px; padding-bottom: 70px;' }
       - if notice.present? || alert.present?
         .alert.alert-warning
           %button.close{ type: :button, 'data-dismiss' => :alert } &times;
           = notice
           = alert
-      .row= yield
-  #footer
-    Developed and Maintained by #{mail_to 'mailto:bhaberer@gmail.com', 'Brian Haberer', encode: :javascript }.
+      .row
+        .col-md-6.col-md-offset-3
+          = yield
+  #footer.navbar.navbar-default.navbar-fixed-bottom
+    .container
+      Developed and Maintained by #{mail_to 'mailto:bhaberer@gmail.com', 'Brian Haberer', encode: :javascript }.
