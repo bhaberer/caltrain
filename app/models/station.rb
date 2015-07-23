@@ -11,6 +11,14 @@ class Station < ActiveRecord::Base
 
   after_create :generate_uid
 
+  def first?
+    order.zero?
+  end
+
+  def last?
+    order == (Station.count - 1)
+  end
+
   def generate_uid
     update_attribute(:uid, name.downcase.gsub(/\s/, '_').gsub(/\W/, ''))
   end

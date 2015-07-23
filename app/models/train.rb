@@ -33,12 +33,16 @@ class Train < ActiveRecord::Base
   end
 
   def direction
-    number.even? ? :southbound : :northbound
+    number.even? ? :south : :north
   end
 
-  [:southbound, :northbound].each do |dir|
+  [:south, :north].each do |dir|
     define_method "#{dir}?" do
       dir == direction
+    end
+
+    define_method "#{dir}bound?" do
+      dir?
     end
   end
 end

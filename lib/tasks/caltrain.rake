@@ -62,10 +62,13 @@ namespace :caltrain do
         stops = YAML.load_file(file)
         stops.each_pair do |train_num, times|
           train = Train.find_or_create_by(number: train_num.to_s.to_i)
+          train.save
           times.each_with_index do |time, order_number|
             next if time == 'NONE'
             station = Station.where(order: order_number).first
-            stop = Stop.create!(time: time, station: station, train: train)
+            fail if station.nil? || train.nil?
+            stop = Stop.create!(time: time, station: station, train: train,
+                                direction: train.south? ? 'south' : 'north')
           end
         end
       end
