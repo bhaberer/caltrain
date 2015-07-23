@@ -1,13 +1,12 @@
 - if @trains.blank?
   = form_tag('/trip', method: :get) do
-    .div-group
+    .form-group
       = label_tag :s1, 'Departing:'
       = select_tag(:s1, options_for_select(@stations), class: 'form-control')
-    .div-group
+    .form-group
       = label_tag :s2, 'Destination:'
       = select_tag(:s2, options_for_select(@stations), class: 'form-control')
-    .form-control
-      = submit_tag 'Get Trains'
+    = submit_tag 'Get Trains', class: 'btn btn-info'
 
 - else
   %table.table.table-striped

@@ -21,7 +21,7 @@
           = link_to 'Caltrain', '#', :class => 'navbar-brand'
         .collapse.navbar-collapse#navbar-collapse
           %ul.navbar-nav.nav
-            %li.active= link_to 'Schedules', '#'
+            %li.active= link_to 'Schedules', trip_path
             %li= link_to 'Trains', trains_path, { 'tabindex' => '-1' }
             %li= link_to 'Stations', stations_path, { 'tabindex' => '-1' }
             %li= link_to 'Full Schedules', '#', { 'tabindex' => '-1' }
