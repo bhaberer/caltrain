@@ -6,7 +6,7 @@ class SchedulesController < ApplicationController
     elsif params[:s1].present? && params[:s2].present?
       @start = Station.find_by_param(params[:s1])
       @ending = Station.find_by_param(params[:s2])
-      travel_dir = @start.order < @ending.order ? :south : :north
+      travel_dir = @start.sequence < @ending.sequence ? :south : :north
       @trains = (@start.trains & @ending.trains)
       @trains.delete_if { |train| train.direction != travel_dir }
     end
