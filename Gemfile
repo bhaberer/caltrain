@@ -11,6 +11,7 @@ gem 'bootstrap-sass', '~> 3.3.5'
 gem 'haml', '4.0.6'
 gem 'haml-rails', '0.9.0'
 gem 'google_drive'
+gem 'rails_12factor'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
