@@ -41,6 +41,6 @@
       .row
         .col-md-6.col-md-offset-3
           = yield
-  #footer.navbar.navbar-default.navbar-fixed-bottom
-    .container
-      Developed and Maintained by #{mail_to 'mailto:bhaberer@gmail.com', 'Brian Haberer', encode: :javascript }.
+  #footer.text-center
+    %p
+      Developed and Maintained by #{mail_to 'bhaberer@gmail.com', 'Brian Haberer', encode: :javascript }.
