@@ -81,7 +81,9 @@ namespace :caltrain do
           train = Train.where(number: train_num.to_s.to_i).first
           times.each_with_index do |time, order_number|
             next if time == 'NONE'
+            puts "#{time} +0800"
             time = Time.parse("#{time} +0800")
+            puts time
             station = Station.where(sequence: order_number).first
             fail if station.nil? || train.nil?
             Stop.create!(time: time, station: station,
