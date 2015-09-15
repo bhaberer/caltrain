@@ -11,12 +11,14 @@ class Station < ActiveRecord::Base
 
   after_create :generate_uid
 
+  default_scope { order('sequence') }
+
   def first?
-    order.zero?
+    sequence.zero?
   end
 
   def last?
-    order == (Station.count - 1)
+    sequence == (Station.count - 1)
   end
 
   def generate_uid
