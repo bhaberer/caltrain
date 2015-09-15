@@ -1,5 +1,17 @@
 namespace :caltrain do
+  desc 'Refresh all static data, purges all stops, stations and trains and'\
+       'reinitializes all data from current yml files'
+  task refresh: :environment do
+    []
+    Rake::Task['task_name'].invoke
+  end
+
   namespace :purge do
+    desc 'Purge stations, stops and trains.'
+    task all: [:environment, :stops, :stations, :trains] do
+      puts 'Done.'
+    end
+
     desc 'Purge all Stations'
     task stations: :environment do
       Station.all.each(&:destroy)
@@ -17,6 +29,11 @@ namespace :caltrain do
   end
 
   namespace :populate do
+    desc 'Populate stations, stops and trains.'
+    task all: [:environment, :stations, :trains, :stops] do
+      puts 'Done.'
+    end
+
     desc 'populate the Stations based on the stations.yml'
     task stations: :environment do
       File.open(Rails.root.join('lib', 'tasks', 'stations.yml')) do |file|
@@ -65,7 +82,7 @@ namespace :caltrain do
           times.each_with_index do |time, order_number|
             next if time == 'NONE'
             time = Time.parse("#{time} PT")
-            station = Station.where(order: order_number).first
+            station = Station.where(sequence: order_number).first
             fail if station.nil? || train.nil?
             Stop.create!(time: time, station: station,
                          train: train, direction: train.south? ? 'south' : 'north')

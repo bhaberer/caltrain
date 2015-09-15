@@ -1,88 +1,88 @@
 ---
 - :name: San Francisco
-  :order: 0
+  :sequence: 0
   :zone: 1
 - :name: 22nd Street
-  :order: 1
+  :sequence: 1
   :zone: 1
 - :name: Bayshore
-  :order: 2
+  :sequence: 2
   :zone: 1
 - :name: So. San Francisco
-  :order: 3
+  :sequence: 3
   :zone: 1
 - :name: San Bruno
-  :order: 4
+  :sequence: 4
   :zone: 1
 - :name: Millbrae
-  :order: 5
+  :sequence: 5
   :zone: 2
 - :name: Burlingame
-  :order: 6
+  :sequence: 6
   :zone: 2
 - :name: San Mateo
-  :order: 7
+  :sequence: 7
   :zone: 2
 - :name: Hayward Park
-  :order: 8
+  :sequence: 8
   :zone: 2
 - :name: Hillsdale
-  :order: 9
+  :sequence: 9
   :zone: 2
 - :name: Belmont
-  :order: 10
+  :sequence: 10
   :zone: 2
 - :name: San Carlos
-  :order: 11
+  :sequence: 11
   :zone: 2
 - :name: Redwood City
-  :order: 12
+  :sequence: 12
   :zone: 2
 - :name: Menlo Park
-  :order: 13
+  :sequence: 13
   :zone: 3
 - :name: Palo Alto
-  :order: 14
+  :sequence: 14
   :zone: 3
 - :name: California Avenue
-  :order: 15
+  :sequence: 15
   :zone: 3
 - :name: San Antonio
-  :order: 16
+  :sequence: 16
   :zone: 3
 - :name: Mountain View
-  :order: 17
+  :sequence: 17
   :zone: 3
 - :name: Sunnyvale
-  :order: 18
+  :sequence: 18
   :zone: 3
 - :name: Lawrence
-  :order: 19
+  :sequence: 19
   :zone: 4
 - :name: Santa Clara
-  :order: 20
+  :sequence: 20
   :zone: 4
 - :name: College Park
-  :order: 21
+  :sequence: 21
   :zone: 4
 - :name: San Jose Diridon
-  :order: 22
+  :sequence: 22
   :zone: 4
 - :name: Tamien
-  :order: 23
+  :sequence: 23
   :zone: 4
 - :name: Capitol
-  :order: 24
+  :sequence: 24
   :zone: 5
 - :name: Blossom Hill
-  :order: 25
+  :sequence: 25
   :zone: 5
 - :name: Morgan Hill
-  :order: 26
+  :sequence: 26
   :zone: 6
 - :name: San Martin
-  :order: 27
+  :sequence: 27
   :zone: 6
 - :name: Gilroy
-  :order: 28
+  :sequence: 28
   :zone: 6
