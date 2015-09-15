@@ -8,8 +8,16 @@ class Train < ActiveRecord::Base
                      numericality: true,
                      length: { is: 3 }
 
+  def order
+    stops.first.time
+  end
+
   def to_param
     number.to_s
+  end
+
+  def stop_for(station)
+    stops.where(station: station).first
   end
 
   def self.find_by_param(input)

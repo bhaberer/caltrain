@@ -4,12 +4,12 @@
   %thead
     %tr
       %th Number
-      %th Type
+      %th Direction
       %th
 
   %tbody
     - @trains.each do |train|
-      %tr
+      %tr{ class: train_class(train) }
         %td= link_to train.number, train
-        %td= train.schedule_type
+        %td #{train.direction.capitalize}bound
         %td= link_to 'Edit', edit_train_path(train)

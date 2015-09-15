@@ -39,20 +39,20 @@ namespace :caltrain do
       auth.client_id = ENV['GOOGLE_ID']
       auth.client_secret = ENV['GOOGLE_SECRET']
       auth.scope = [
-        "https://www.googleapis.com/auth/drive",
-        "https://spreadsheets.google.com/feeds/"
+        'https://www.googleapis.com/auth/drive',
+        'https://spreadsheets.google.com/feeds/'
       ]
-      auth.redirect_uri = "urn:ietf:wg:oauth:2.0:oob"
-      print("1. Open this page:\n%s\n\n" % auth.authorization_uri)
-      print("2. Enter the authorization code shown in the page: ")
+      auth.redirect_uri = 'urn:ietf:wg:oauth:2.0:oob'
+      print("1. Open this page:\n#{auth.authorization_uri}\n\n")
+      print('2. Enter the authorization code shown in the page: ')
       auth.code = $stdin.gets.chomp
       auth.fetch_access_token!
       access_token = auth.access_token
       session = GoogleDrive.login_with_oauth(access_token)
       sheet = session.spreadsheet_by_key(ENV['GOOGLE_SHEET'])
-      stops = download_stops(sheet)
+      stops = StopsIngestor.download_stops(sheet)
       File.open(Rails.root.join('lib', 'tasks', 'stops.yml'), 'w') do |file|
-         file.puts(YAML.dump(stops.symbolize_keys))
+        file.puts(YAML.dump(stops.symbolize_keys))
       end
     end
 
@@ -61,35 +61,54 @@ namespace :caltrain do
       File.open(Rails.root.join('lib', 'tasks', 'stops.yml')) do |file|
         stops = YAML.load_file(file)
         stops.each_pair do |train_num, times|
-          train = Train.find_or_create_by(number: train_num.to_s.to_i)
+          train = Train.where(number: train_num.to_s.to_i).first
           times.each_with_index do |time, order_number|
             next if time == 'NONE'
+            time = Time.parse("#{time} PT")
             station = Station.where(order: order_number).first
             fail if station.nil? || train.nil?
-            stop = Stop.create!(time: time, station: station, train: train,
-                                direction: train.south? ? 'south' : 'north')
+            Stop.create!(time: time, station: station,
+                         train: train, direction: train.south? ? 'south' : 'north')
           end
         end
       end
     end
   end
+end
 
-  def download_stops(sheet)
+# Small module to manage pulling fresh info from gdoc.
+module StopsIngestor
+  STOP_ROWS = 35
+  MAX_TRAINS_PER_SHEET = 60
+  TRAIN_NUM_ROW = 1
+
+  def self.download_stops(sheet)
     all_stops = {}
-    (0..3).each do |sheet_num|
-      ws = sheet.worksheets[sheet_num]
-      (2..60).each do |col|
-        if ws[1, col][/\d{3}/]
-          train_num = ws[1, col]
-          stops = []
-          (2..(Station.count + 2)).each do |row|
-            stop = ws[row, col]
-            stops << stop unless stop.blank?
-          end
-          all_stops[train_num.to_s.to_i] = stops
-        end
-      end
+    sheet.worksheets.each do |ws|
+      stops = parse_sheet(ws)
+      all_stops.merge(stops)
     end
     all_stops
+  end
+
+  private
+
+  def parse_sheet(sheet)
+    stops = {}
+    (2..MAX_TRAINS_PER_SHEET).each do |col|
+      next unless sheet[TRAIN_NUM_ROW, col][/\d{3}/]
+      train_num = sheet[TRAIN_NUM_ROW, col].to_s.to_i
+      stop_list = parse_train(col, sheet)
+      stops[train_num] = stop_list
+    end
+    stops
+  end
+
+  def parse_train(col, sheet)
+    stop_list = []
+    (2..STOP_ROWS).each do |row|
+      next if sheet[row, col].blank?
+      stop_list << sheet[row, col]
+    end
   end
 end

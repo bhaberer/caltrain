@@ -1,28 +1,28 @@
 ---
 :101:
-- '6:03am'
-- '5:54am'
-- '5:49am'
-- '5:43am'
-- '5:39am'
-- '5:35am'
-- '5:30am'
-- '5:25am'
-- '5:22am'
-- '5:19am'
-- '5:16am'
-- '5:13am'
-- '5:09am'
-- '5:04am'
-- '5:01am'
-- '4:57am'
-- '4:53am'
-- '4:49am'
-- '4:44am'
-- '4:40am'
-- '4:35am'
+- '6:03 am PT'
+- '5:54 am PT'
+- '5:49 am PT'
+- '5:43 am PT'
+- '5:39 am PT'
+- '5:35 am PT'
+- '5:30 am PT'
+- '5:25 am PT'
+- '5:22 am PT'
+- '5:19 am PT'
+- '5:16 am PT'
+- '5:13 am PT'
+- '5:09 am PT'
+- '5:04 am PT'
+- '5:01 am PT'
+- '4:57 am PT'
+- '4:53 am PT'
+- '4:49 am PT'
+- '4:44 am PT'
+- '4:40 am PT'
+- '4:35 am PT'
 - NONE
-- '4:30am'
+- '4:30 am PT'
 - NONE
 - NONE
 - NONE
@@ -30,59 +30,59 @@
 - NONE
 - NONE
 :103:
-- '6:38am'
-- '6:29am'
-- '6:24am'
-- '6:18am'
-- '6:14am'
-- '6:10am'
-- '6:05am'
-- '6:00am'
-- '5:57am'
-- '5:54am'
-- '5:51am'
-- '5:48am'
-- '5:44am'
-- '5:39am'
-- '5:36am'
-- '5:32am'
-- '5:28am'
-- '5:24am'
-- '5:19am'
-- '5:15am'
-- '5:10am'
+- '6:38 am PT'
+- '6:29 am PT'
+- '6:24 am PT'
+- '6:18 am PT'
+- '6:14 am PT'
+- '6:10 am PT'
+- '6:05 am PT'
+- '6:00 am PT'
+- '5:57 am PT'
+- '5:54 am PT'
+- '5:51 am PT'
+- '5:48 am PT'
+- '5:44 am PT'
+- '5:39 am PT'
+- '5:36 am PT'
+- '5:32 am PT'
+- '5:28 am PT'
+- '5:24 am PT'
+- '5:19 am PT'
+- '5:15 am PT'
+- '5:10 am PT'
 - NONE
-- '5:05am'
-- '4:58am'
+- '5:05 am PT'
+- '4:58 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :305:
-- '6:44am'
+- '6:44 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '6:26am'
+- '6:26 am PT'
 - NONE
 - NONE
 - NONE
-- '6:16am'
-- NONE
-- NONE
-- NONE
-- NONE
-- '6:05am'
-- NONE
-- NONE
-- '5:57am'
+- '6:16 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '5:45am'
+- '6:05 am PT'
+- NONE
+- NONE
+- '5:57 am PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '5:45 am PT'
 - NONE
 - NONE
 - NONE
@@ -90,89 +90,89 @@
 - NONE
 - NONE
 :207:
-- '7:21am'
+- '7:21 am PT'
 - NONE
 - NONE
-- '7:07am'
+- '7:07 am PT'
 - NONE
-- '7:01am'
-- NONE
-- NONE
-- NONE
-- '6:51am'
+- '7:01 am PT'
 - NONE
 - NONE
-- '6:45am'
-- '6:39am'
-- '6:36am'
-- '6:31am'
-- '6:27am'
-- '6:23am'
-- '6:18am'
-- '6:12am'
-- '6:02am'
 - NONE
-- '5:57am'
-- '5:50am'
+- '6:51 am PT'
+- NONE
+- NONE
+- '6:45 am PT'
+- '6:39 am PT'
+- '6:36 am PT'
+- '6:31 am PT'
+- '6:27 am PT'
+- '6:23 am PT'
+- '6:18 am PT'
+- '6:12 am PT'
+- '6:02 am PT'
+- NONE
+- '5:57 am PT'
+- '5:50 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :309:
-- '7:04am'
+- '7:04 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '6:47am'
+- '6:47 am PT'
 - NONE
-- '6:39am'
-- NONE
-- NONE
-- NONE
-- NONE
-- '6:30am'
-- NONE
-- '6:23am'
+- '6:39 am PT'
 - NONE
 - NONE
 - NONE
-- '6:13am'
+- NONE
+- '6:30 am PT'
+- NONE
+- '6:23 am PT'
 - NONE
 - NONE
 - NONE
-- '6:03am'
-- '5:56am'
+- '6:13 am PT'
+- NONE
+- NONE
+- NONE
+- '6:03 am PT'
+- '5:56 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :211:
-- '7:50am'
-- '7:42am'
-- '7:35am'
-- '7:27am'
-- '7:23am'
-- '7:19am'
-- '7:13am'
-- '7:08am'
-- '7:05am'
-- '7:02am'
-- '6:58am'
-- '6:55am'
-- '6:51am'
-- '6:45am'
+- '7:50 am PT'
+- '7:42 am PT'
+- '7:35 am PT'
+- '7:27 am PT'
+- '7:23 am PT'
+- '7:19 am PT'
+- '7:13 am PT'
+- '7:08 am PT'
+- '7:05 am PT'
+- '7:02 am PT'
+- '6:58 am PT'
+- '6:55 am PT'
+- '6:51 am PT'
+- '6:45 am PT'
 - NONE
 - NONE
 - NONE
-- '6:37am'
-- '6:32am'
+- '6:37 am PT'
+- '6:32 am PT'
 - NONE
-- '6:25am'
+- '6:25 am PT'
 - NONE
-- '6:20am'
+- '6:20 am PT'
 - NONE
 - NONE
 - NONE
@@ -180,29 +180,29 @@
 - NONE
 - NONE
 :313:
-- '7:44am'
+- '7:44 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '7:26am'
+- '7:26 am PT'
 - NONE
 - NONE
 - NONE
-- '7:16am'
-- NONE
-- NONE
-- NONE
-- NONE
-- '7:05am'
-- NONE
-- NONE
-- '6:57am'
+- '7:16 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '6:45am'
+- '7:05 am PT'
+- NONE
+- NONE
+- '6:57 am PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '6:45 am PT'
 - NONE
 - NONE
 - NONE
@@ -210,29 +210,29 @@
 - NONE
 - NONE
 :215:
-- '7:59am'
+- '7:59 am PT'
 - NONE
 - NONE
 - NONE
-- '7:44am'
+- '7:44 am PT'
 - NONE
-- '7:37am'
-- '7:32am'
+- '7:37 am PT'
+- '7:32 am PT'
 - NONE
-- '7:28am'
+- '7:28 am PT'
 - NONE
-- '7:24am'
-- NONE
-- NONE
-- '7:16am'
-- '7:11am'
-- NONE
-- '7:05am'
-- '7:00am'
+- '7:24 am PT'
 - NONE
 - NONE
+- '7:16 am PT'
+- '7:11 am PT'
 - NONE
-- '6:50am'
+- '7:05 am PT'
+- '7:00 am PT'
+- NONE
+- NONE
+- NONE
+- '6:50 am PT'
 - NONE
 - NONE
 - NONE
@@ -240,119 +240,119 @@
 - NONE
 - NONE
 :217:
-- '8:21am'
+- '8:21 am PT'
 - NONE
 - NONE
-- '8:07am'
+- '8:07 am PT'
 - NONE
-- '8:01am'
-- NONE
-- NONE
-- NONE
-- '7:51am'
+- '8:01 am PT'
 - NONE
 - NONE
-- '7:45am'
-- '7:39am'
-- '7:36am'
-- '7:31am'
-- '7:27am'
-- '7:23am'
-- '7:18am'
-- '7:12am'
-- '7:02am'
 - NONE
-- '6:57am'
-- '6:49am'
-- '6:41am'
-- '6:35am'
-- '6:22am'
-- '6:16am'
-- '6:07am'
+- '7:51 am PT'
+- NONE
+- NONE
+- '7:45 am PT'
+- '7:39 am PT'
+- '7:36 am PT'
+- '7:31 am PT'
+- '7:27 am PT'
+- '7:23 am PT'
+- '7:18 am PT'
+- '7:12 am PT'
+- '7:02 am PT'
+- NONE
+- '6:57 am PT'
+- '6:49 am PT'
+- '6:41 am PT'
+- '6:35 am PT'
+- '6:22 am PT'
+- '6:16 am PT'
+- '6:07 am PT'
 :319:
-- '8:04am'
+- '8:04 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '7:47am'
+- '7:47 am PT'
 - NONE
-- '7:39am'
-- NONE
-- NONE
-- NONE
-- NONE
-- '7:30am'
-- NONE
-- '7:23am'
+- '7:39 am PT'
 - NONE
 - NONE
 - NONE
-- '7:13am'
+- NONE
+- '7:30 am PT'
+- NONE
+- '7:23 am PT'
 - NONE
 - NONE
 - NONE
-- '7:03am'
-- '6:56am'
+- '7:13 am PT'
+- NONE
+- NONE
+- NONE
+- '7:03 am PT'
+- '6:56 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :221:
-- '8:50am'
-- '8:42am'
-- '8:35am'
-- '8:27am'
-- '8:23am'
-- '8:19am'
-- '8:13am'
-- '8:08am'
-- '8:05am'
-- '8:02am'
-- '7:58am'
-- '7:55am'
-- '7:51am'
-- '7:45am'
+- '8:50 am PT'
+- '8:42 am PT'
+- '8:35 am PT'
+- '8:27 am PT'
+- '8:23 am PT'
+- '8:19 am PT'
+- '8:13 am PT'
+- '8:08 am PT'
+- '8:05 am PT'
+- '8:02 am PT'
+- '7:58 am PT'
+- '7:55 am PT'
+- '7:51 am PT'
+- '7:45 am PT'
 - NONE
 - NONE
 - NONE
-- '7:37am'
-- '7:32am'
-- '7:28am'
-- '7:23am'
+- '7:37 am PT'
+- '7:32 am PT'
+- '7:28 am PT'
+- '7:23 am PT'
 - NONE
-- '7:18am'
-- '7:10am'
-- '7:02am'
-- '6:56am'
-- '6:43am'
-- '6:37am'
-- '6:28am'
+- '7:18 am PT'
+- '7:10 am PT'
+- '7:02 am PT'
+- '6:56 am PT'
+- '6:43 am PT'
+- '6:37 am PT'
+- '6:28 am PT'
 :323:
-- '8:44am'
+- '8:44 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '8:26am'
+- '8:26 am PT'
 - NONE
 - NONE
 - NONE
-- '8:16am'
-- NONE
-- NONE
-- NONE
-- NONE
-- '8:05am'
-- NONE
-- NONE
-- '7:57am'
+- '8:16 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '7:45am'
+- '8:05 am PT'
+- NONE
+- NONE
+- '7:57 am PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '7:45 am PT'
 - NONE
 - NONE
 - NONE
@@ -360,29 +360,29 @@
 - NONE
 - NONE
 :225:
-- '8:59am'
+- '8:59 am PT'
 - NONE
 - NONE
 - NONE
-- '8:44am'
+- '8:44 am PT'
 - NONE
-- '8:37am'
-- '8:32am'
+- '8:37 am PT'
+- '8:32 am PT'
 - NONE
-- '8:28am'
+- '8:28 am PT'
 - NONE
-- '8:24am'
-- NONE
-- NONE
-- '8:16am'
-- '8:11am'
-- NONE
-- '8:05am'
-- '8:00am'
+- '8:24 am PT'
 - NONE
 - NONE
+- '8:16 am PT'
+- '8:11 am PT'
 - NONE
-- '7:50am'
+- '8:05 am PT'
+- '8:00 am PT'
+- NONE
+- NONE
+- NONE
+- '7:50 am PT'
 - NONE
 - NONE
 - NONE
@@ -390,89 +390,89 @@
 - NONE
 - NONE
 :227:
-- '9:21am'
+- '9:21 am PT'
 - NONE
 - NONE
-- '9:07am'
+- '9:07 am PT'
 - NONE
-- '9:01am'
-- NONE
-- NONE
-- NONE
-- '8:51am'
+- '9:01 am PT'
 - NONE
 - NONE
-- '8:45am'
-- '8:39am'
-- '8:36am'
-- '8:31am'
-- '8:27am'
-- '8:23am'
-- '8:18am'
-- '8:12am'
-- '8:02am'
-- '7:58am'
-- '7:55am'
-- '7:47am'
-- '7:39am'
-- '7:33am'
-- '7:20am'
-- '7:14am'
-- '7:05am'
+- NONE
+- '8:51 am PT'
+- NONE
+- NONE
+- '8:45 am PT'
+- '8:39 am PT'
+- '8:36 am PT'
+- '8:31 am PT'
+- '8:27 am PT'
+- '8:23 am PT'
+- '8:18 am PT'
+- '8:12 am PT'
+- '8:02 am PT'
+- '7:58 am PT'
+- '7:55 am PT'
+- '7:47 am PT'
+- '7:39 am PT'
+- '7:33 am PT'
+- '7:20 am PT'
+- '7:14 am PT'
+- '7:05 am PT'
 :329:
-- '9:07am'
+- '9:07 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '8:50am'
+- '8:50 am PT'
 - NONE
-- '8:42am'
-- NONE
-- NONE
-- NONE
-- NONE
-- '8:33am'
-- NONE
-- '8:25am'
+- '8:42 am PT'
 - NONE
 - NONE
 - NONE
-- '8:14am'
+- NONE
+- '8:33 am PT'
+- NONE
+- '8:25 am PT'
 - NONE
 - NONE
 - NONE
-- '8:03am'
-- '7:56am'
+- '8:14 am PT'
+- NONE
+- NONE
+- NONE
+- '8:03 am PT'
+- '7:56 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :231:
-- '9:47am'
-- '9:39am'
-- '9:33am'
-- '9:27am'
-- '9:23am'
-- '9:19am'
-- '9:13am'
-- '9:08am'
-- '9:05am'
-- '9:02am'
-- '8:58am'
-- '8:55am'
-- '8:51am'
-- '8:45am'
+- '9:47 am PT'
+- '9:39 am PT'
+- '9:33 am PT'
+- '9:27 am PT'
+- '9:23 am PT'
+- '9:19 am PT'
+- '9:13 am PT'
+- '9:08 am PT'
+- '9:05 am PT'
+- '9:02 am PT'
+- '8:58 am PT'
+- '8:55 am PT'
+- '8:51 am PT'
+- '8:45 am PT'
 - NONE
 - NONE
 - NONE
-- '8:37am'
-- '8:32am'
+- '8:37 am PT'
+- '8:32 am PT'
 - NONE
-- '8:25am'
+- '8:25 am PT'
 - NONE
-- '8:20am'
+- '8:20 am PT'
 - NONE
 - NONE
 - NONE
@@ -480,59 +480,59 @@
 - NONE
 - NONE
 :233:
-- '10:08am'
+- '10:08 am PT'
 - NONE
 - NONE
 - NONE
-- '9:51am'
-- '9:47am'
-- '9:42am'
-- '9:37am'
+- '9:51 am PT'
+- '9:47 am PT'
+- '9:42 am PT'
+- '9:37 am PT'
 - NONE
-- '9:33am'
-- '9:30am'
-- '9:27am'
-- '9:23am'
-- '9:17am'
-- '9:14am'
-- '9:08am'
-- '9:04am'
-- '9:00am'
-- '8:54am'
-- '8:50am'
-- '8:45am'
+- '9:33 am PT'
+- '9:30 am PT'
+- '9:27 am PT'
+- '9:23 am PT'
+- '9:17 am PT'
+- '9:14 am PT'
+- '9:08 am PT'
+- '9:04 am PT'
+- '9:00 am PT'
+- '8:54 am PT'
+- '8:50 am PT'
+- '8:45 am PT'
 - NONE
-- '8:40am'
-- '8:33am'
+- '8:40 am PT'
+- '8:33 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :135:
-- '10:48am'
-- '10:39am'
-- '10:34am'
-- '10:28am'
-- '10:24am'
-- '10:20am'
-- '10:15am'
-- '10:10am'
-- '10:07am'
-- '10:04am'
-- '10:01am'
-- '9:58am'
-- '9:54am'
-- '9:49am'
-- '9:46am'
-- '9:42am'
-- '9:38am'
-- '9:34am'
-- '9:29am'
-- '9:25am'
-- '9:20am'
+- '10:48 am PT'
+- '10:39 am PT'
+- '10:34 am PT'
+- '10:28 am PT'
+- '10:24 am PT'
+- '10:20 am PT'
+- '10:15 am PT'
+- '10:10 am PT'
+- '10:07 am PT'
+- '10:04 am PT'
+- '10:01 am PT'
+- '9:58 am PT'
+- '9:54 am PT'
+- '9:49 am PT'
+- '9:46 am PT'
+- '9:42 am PT'
+- '9:38 am PT'
+- '9:34 am PT'
+- '9:29 am PT'
+- '9:25 am PT'
+- '9:20 am PT'
 - NONE
-- '9:15am'
+- '9:15 am PT'
 - NONE
 - NONE
 - NONE
@@ -540,59 +540,59 @@
 - NONE
 - NONE
 :237:
-- '11:14am'
+- '11:14 am PT'
 - NONE
 - NONE
 - NONE
-- '10:57am'
-- '10:53am'
-- '10:48am'
-- '10:43am'
+- '10:57 am PT'
+- '10:53 am PT'
+- '10:48 am PT'
+- '10:43 am PT'
 - NONE
-- '10:39am'
-- '10:36am'
-- '10:33am'
-- '10:29am'
-- '10:24am'
-- '10:21am'
-- '10:17am'
-- '10:13am'
-- '10:09am'
-- '10:04am'
-- '10:00am'
-- '9:55am'
+- '10:39 am PT'
+- '10:36 am PT'
+- '10:33 am PT'
+- '10:29 am PT'
+- '10:24 am PT'
+- '10:21 am PT'
+- '10:17 am PT'
+- '10:13 am PT'
+- '10:09 am PT'
+- '10:04 am PT'
+- '10:00 am PT'
+- '9:55 am PT'
 - NONE
-- '9:50am'
-- '9:43am'
+- '9:50 am PT'
+- '9:43 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :139:
-- '11:48am'
-- '11:39am'
-- '11:34am'
-- '11:28am'
-- '11:24am'
-- '11:20am'
-- '11:15am'
-- '11:10am'
-- '11:07am'
-- '11:04am'
-- '11:01am'
-- '10:58am'
-- '10:54am'
-- '10:49am'
-- '10:46am'
-- '10:42am'
-- '10:38am'
-- '10:34am'
-- '10:29am'
-- '10:25am'
-- '10:20am'
+- '11:48 am PT'
+- '11:39 am PT'
+- '11:34 am PT'
+- '11:28 am PT'
+- '11:24 am PT'
+- '11:20 am PT'
+- '11:15 am PT'
+- '11:10 am PT'
+- '11:07 am PT'
+- '11:04 am PT'
+- '11:01 am PT'
+- '10:58 am PT'
+- '10:54 am PT'
+- '10:49 am PT'
+- '10:46 am PT'
+- '10:42 am PT'
+- '10:38 am PT'
+- '10:34 am PT'
+- '10:29 am PT'
+- '10:25 am PT'
+- '10:20 am PT'
 - NONE
-- '10:15am'
+- '10:15 am PT'
 - NONE
 - NONE
 - NONE
@@ -600,29 +600,29 @@
 - NONE
 - NONE
 :143:
-- '12:43pm'
-- '12:34pm'
-- '12:29pm'
-- '12:23pm'
-- '12:19pm'
-- '12:15pm'
-- '12:10pm'
-- '12:05pm'
-- '12:02pm'
-- '11:59am'
-- '11:56am'
-- '11:53am'
-- '11:49am'
-- '11:44am'
-- '11:41am'
-- '11:37am'
-- '11:33am'
-- '11:29am'
-- '11:24am'
-- '11:20am'
-- '11:15am'
+- '12:43 pm PT'
+- '12:34 pm PT'
+- '12:29 pm PT'
+- '12:23 pm PT'
+- '12:19 pm PT'
+- '12:15 pm PT'
+- '12:10 pm PT'
+- '12:05 pm PT'
+- '12:02 pm PT'
+- '11:59 am PT'
+- '11:56 am PT'
+- '11:53 am PT'
+- '11:49 am PT'
+- '11:44 am PT'
+- '11:41 am PT'
+- '11:37 am PT'
+- '11:33 am PT'
+- '11:29 am PT'
+- '11:24 am PT'
+- '11:20 am PT'
+- '11:15 am PT'
 - NONE
-- '11:10am'
+- '11:10 am PT'
 - NONE
 - NONE
 - NONE
@@ -630,29 +630,29 @@
 - NONE
 - NONE
 :147:
-- '1:43pm'
-- '1:34pm'
-- '1:29pm'
-- '1:23pm'
-- '1:19pm'
-- '1:15pm'
-- '1:10pm'
-- '1:05pm'
-- '1:02pm'
-- '12:59pm'
-- '12:56pm'
-- '12:53pm'
-- '12:49pm'
-- '12:44pm'
-- '12:41pm'
-- '12:37pm'
-- '12:33pm'
-- '12:29pm'
-- '12:24pm'
-- '12:20pm'
-- '12:15pm'
+- '1:43 pm PT'
+- '1:34 pm PT'
+- '1:29 pm PT'
+- '1:23 pm PT'
+- '1:19 pm PT'
+- '1:15 pm PT'
+- '1:10 pm PT'
+- '1:05 pm PT'
+- '1:02 pm PT'
+- '12:59 pm PT'
+- '12:56 pm PT'
+- '12:53 pm PT'
+- '12:49 pm PT'
+- '12:44 pm PT'
+- '12:41 pm PT'
+- '12:37 pm PT'
+- '12:33 pm PT'
+- '12:29 pm PT'
+- '12:24 pm PT'
+- '12:20 pm PT'
+- '12:15 pm PT'
 - NONE
-- '12:10pm'
+- '12:10 pm PT'
 - NONE
 - NONE
 - NONE
@@ -660,29 +660,29 @@
 - NONE
 - NONE
 :151:
-- '2:43pm'
-- '2:34pm'
-- '2:29pm'
-- '2:23pm'
-- '2:19pm'
-- '2:15pm'
-- '2:10pm'
-- '2:05pm'
-- '2:02pm'
-- '1:59pm'
-- '1:56pm'
-- '1:53pm'
-- '1:49pm'
-- '1:44pm'
-- '1:41pm'
-- '1:37pm'
-- '1:33pm'
-- '1:29pm'
-- '1:24pm'
-- '1:20pm'
-- '1:15pm'
+- '2:43 pm PT'
+- '2:34 pm PT'
+- '2:29 pm PT'
+- '2:23 pm PT'
+- '2:19 pm PT'
+- '2:15 pm PT'
+- '2:10 pm PT'
+- '2:05 pm PT'
+- '2:02 pm PT'
+- '1:59 pm PT'
+- '1:56 pm PT'
+- '1:53 pm PT'
+- '1:49 pm PT'
+- '1:44 pm PT'
+- '1:41 pm PT'
+- '1:37 pm PT'
+- '1:33 pm PT'
+- '1:29 pm PT'
+- '1:24 pm PT'
+- '1:20 pm PT'
+- '1:15 pm PT'
 - NONE
-- '1:10pm'
+- '1:10 pm PT'
 - NONE
 - NONE
 - NONE
@@ -690,29 +690,29 @@
 - NONE
 - NONE
 :155:
-- '3:48pm'
-- '3:39pm'
-- '3:34pm'
-- '3:28pm'
-- '3:24pm'
-- '3:20pm'
-- '3:15pm'
-- '3:10pm'
-- '3:07pm'
-- '3:04pm'
-- '3:01pm'
-- '2:58pm'
-- '2:54pm'
-- '2:49pm'
-- '2:46pm'
-- '2:42pm'
-- '2:38pm'
-- '2:34pm'
-- '2:29pm'
-- '2:25pm'
-- '2:20pm'
+- '3:48 pm PT'
+- '3:39 pm PT'
+- '3:34 pm PT'
+- '3:28 pm PT'
+- '3:24 pm PT'
+- '3:20 pm PT'
+- '3:15 pm PT'
+- '3:10 pm PT'
+- '3:07 pm PT'
+- '3:04 pm PT'
+- '3:01 pm PT'
+- '2:58 pm PT'
+- '2:54 pm PT'
+- '2:49 pm PT'
+- '2:46 pm PT'
+- '2:42 pm PT'
+- '2:38 pm PT'
+- '2:34 pm PT'
+- '2:29 pm PT'
+- '2:25 pm PT'
+- '2:20 pm PT'
 - NONE
-- '2:15pm'
+- '2:15 pm PT'
 - NONE
 - NONE
 - NONE
@@ -720,59 +720,59 @@
 - NONE
 - NONE
 :257:
-- '4:04pm'
+- '4:04 pm PT'
 - NONE
 - NONE
 - NONE
-- '3:47pm'
-- '3:43pm'
-- '3:38pm'
-- '3:33pm'
+- '3:47 pm PT'
+- '3:43 pm PT'
+- '3:38 pm PT'
+- '3:33 pm PT'
 - NONE
-- '3:29pm'
-- '3:26pm'
-- '3:23pm'
-- '3:19pm'
-- '3:14pm'
-- '3:11pm'
-- '3:07pm'
-- '3:03pm'
-- '2:59pm'
-- '2:54pm'
-- '2:50pm'
-- '2:45pm'
+- '3:29 pm PT'
+- '3:26 pm PT'
+- '3:23 pm PT'
+- '3:19 pm PT'
+- '3:14 pm PT'
+- '3:11 pm PT'
+- '3:07 pm PT'
+- '3:03 pm PT'
+- '2:59 pm PT'
+- '2:54 pm PT'
+- '2:50 pm PT'
+- '2:45 pm PT'
 - NONE
-- '2:40pm'
-- '2:33pm'
+- '2:40 pm PT'
+- '2:33 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :159:
-- '4:40pm'
-- '4:31pm'
-- '4:26pm'
-- '4:20pm'
-- '4:16pm'
-- '4:12pm'
-- '4:07pm'
-- '4:02pm'
-- '3:59pm'
-- '3:56pm'
-- '3:53pm'
-- '3:50pm'
-- '3:46pm'
-- '3:41pm'
-- '3:38pm'
-- '3:34pm'
-- '3:30pm'
-- '3:26pm'
-- '3:21pm'
-- '3:17pm'
-- '3:12pm'
-- '3:08pm'
-- '3:05pm'
+- '4:40 pm PT'
+- '4:31 pm PT'
+- '4:26 pm PT'
+- '4:20 pm PT'
+- '4:16 pm PT'
+- '4:12 pm PT'
+- '4:07 pm PT'
+- '4:02 pm PT'
+- '3:59 pm PT'
+- '3:56 pm PT'
+- '3:53 pm PT'
+- '3:50 pm PT'
+- '3:46 pm PT'
+- '3:41 pm PT'
+- '3:38 pm PT'
+- '3:34 pm PT'
+- '3:30 pm PT'
+- '3:26 pm PT'
+- '3:21 pm PT'
+- '3:17 pm PT'
+- '3:12 pm PT'
+- '3:08 pm PT'
+- '3:05 pm PT'
 - NONE
 - NONE
 - NONE
@@ -780,89 +780,89 @@
 - NONE
 - NONE
 :261:
-- '5:05pm'
-- '4:57pm'
+- '5:05 pm PT'
+- '4:57 pm PT'
 - NONE
 - NONE
 - NONE
-- '4:45pm'
+- '4:45 pm PT'
 - NONE
-- '4:36pm'
+- '4:36 pm PT'
 - NONE
 - NONE
 - NONE
-- '4:29pm'
-- '4:25pm'
-- '4:19pm'
-- '4:16pm'
-- '4:11pm'
-- '4:07pm'
-- '4:03pm'
-- '3:58pm'
-- '3:54pm'
-- '3:49pm'
+- '4:29 pm PT'
+- '4:25 pm PT'
+- '4:19 pm PT'
+- '4:16 pm PT'
+- '4:11 pm PT'
+- '4:07 pm PT'
+- '4:03 pm PT'
+- '3:58 pm PT'
+- '3:54 pm PT'
+- '3:49 pm PT'
 - NONE
-- '3:44pm'
-- '3:37pm'
+- '3:44 pm PT'
+- '3:37 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :263:
-- '5:31pm'
-- '5:23pm'
-- '5:15pm'
-- '5:07pm'
-- '5:03pm'
-- '4:59pm'
-- '4:53pm'
-- '4:48pm'
-- '4:45pm'
-- '4:42pm'
-- '4:38pm'
-- '4:35pm'
-- '4:31pm'
+- '5:31 pm PT'
+- '5:23 pm PT'
+- '5:15 pm PT'
+- '5:07 pm PT'
+- '5:03 pm PT'
+- '4:59 pm PT'
+- '4:53 pm PT'
+- '4:48 pm PT'
+- '4:45 pm PT'
+- '4:42 pm PT'
+- '4:38 pm PT'
+- '4:35 pm PT'
+- '4:31 pm PT'
 - NONE
-- '4:24pm'
-- NONE
-- NONE
+- '4:24 pm PT'
 - NONE
 - NONE
 - NONE
-- '4:10pm'
 - NONE
-- '4:05pm'
-- '3:58pm'
+- NONE
+- '4:10 pm PT'
+- NONE
+- '4:05 pm PT'
+- '3:58 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :365:
-- '5:26pm'
-- '5:19pm'
+- '5:26 pm PT'
+- '5:19 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:07pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- '4:52pm'
-- '4:46pm'
-- '4:43pm'
-- NONE
-- NONE
-- '4:35pm'
+- '5:07 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '4:23pm'
+- NONE
+- NONE
+- '4:52 pm PT'
+- '4:46 pm PT'
+- '4:43 pm PT'
+- NONE
+- NONE
+- '4:35 pm PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '4:23 pm PT'
 - NONE
 - NONE
 - NONE
@@ -870,29 +870,29 @@
 - NONE
 - NONE
 :267:
-- '5:43pm'
-- '5:35pm'
+- '5:43 pm PT'
+- '5:35 pm PT'
 - NONE
 - NONE
-- '5:24pm'
+- '5:24 pm PT'
 - NONE
-- '5:17pm'
-- '5:12pm'
+- '5:17 pm PT'
+- '5:12 pm PT'
 - NONE
-- '5:08pm'
+- '5:08 pm PT'
 - NONE
-- '5:04pm'
+- '5:04 pm PT'
 - NONE
-- '4:57pm'
-- '4:54pm'
-- NONE
-- NONE
-- '4:46pm'
-- NONE
-- '4:39pm'
+- '4:57 pm PT'
+- '4:54 pm PT'
 - NONE
 - NONE
-- '4:31pm'
+- '4:46 pm PT'
+- NONE
+- '4:39 pm PT'
+- NONE
+- NONE
+- '4:31 pm PT'
 - NONE
 - NONE
 - NONE
@@ -900,59 +900,59 @@
 - NONE
 - NONE
 :269:
-- '6:04pm'
-- '5:57pm'
+- '6:04 pm PT'
+- '5:57 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:45pm'
+- '5:45 pm PT'
 - NONE
-- '5:36pm'
+- '5:36 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:29pm'
-- '5:25pm'
-- '5:19pm'
-- '5:16pm'
-- '5:11pm'
-- '5:07pm'
-- '5:03pm'
-- '4:58pm'
-- '4:52pm'
-- '4:44pm'
+- '5:29 pm PT'
+- '5:25 pm PT'
+- '5:19 pm PT'
+- '5:16 pm PT'
+- '5:11 pm PT'
+- '5:07 pm PT'
+- '5:03 pm PT'
+- '4:58 pm PT'
+- '4:52 pm PT'
+- '4:44 pm PT'
 - NONE
-- '4:39pm'
-- '4:32pm'
+- '4:39 pm PT'
+- '4:32 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :371:
-- '5:46pm'
-- '5:39pm'
+- '5:46 pm PT'
+- '5:39 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:27pm'
+- '5:27 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:17pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- '5:06pm'
-- NONE
-- NONE
-- '4:58pm'
+- '5:17 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '4:45pm'
+- '5:06 pm PT'
+- NONE
+- NONE
+- '4:58 pm PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '4:45 pm PT'
 - NONE
 - NONE
 - NONE
@@ -960,59 +960,59 @@
 - NONE
 - NONE
 :273:
-- '6:33pm'
-- '6:25pm'
-- '6:17pm'
-- '6:09pm'
-- '6:05pm'
-- '6:01pm'
-- '5:55pm'
-- '5:50pm'
-- '5:47pm'
-- '5:44pm'
-- '5:40pm'
-- '5:37pm'
-- '5:33pm'
+- '6:33 pm PT'
+- '6:25 pm PT'
+- '6:17 pm PT'
+- '6:09 pm PT'
+- '6:05 pm PT'
+- '6:01 pm PT'
+- '5:55 pm PT'
+- '5:50 pm PT'
+- '5:47 pm PT'
+- '5:44 pm PT'
+- '5:40 pm PT'
+- '5:37 pm PT'
+- '5:33 pm PT'
 - NONE
-- '5:26pm'
-- NONE
-- NONE
+- '5:26 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:11pm'
 - NONE
-- '5:06pm'
-- '4:59pm'
+- NONE
+- '5:11 pm PT'
+- NONE
+- '5:06 pm PT'
+- '4:59 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :375:
-- '6:28pm'
-- '6:21pm'
+- '6:28 pm PT'
+- '6:21 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:09pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- '5:53pm'
-- '5:47pm'
-- '5:44pm'
-- NONE
-- NONE
-- '5:35pm'
+- '6:09 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '5:23pm'
+- NONE
+- NONE
+- '5:53 pm PT'
+- '5:47 pm PT'
+- '5:44 pm PT'
+- NONE
+- NONE
+- '5:35 pm PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '5:23 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1020,29 +1020,29 @@
 - NONE
 - NONE
 :277:
-- '6:43pm'
-- '6:35pm'
+- '6:43 pm PT'
+- '6:35 pm PT'
 - NONE
 - NONE
-- '6:24pm'
+- '6:24 pm PT'
 - NONE
-- '6:17pm'
-- '6:12pm'
+- '6:17 pm PT'
+- '6:12 pm PT'
 - NONE
-- '6:08pm'
+- '6:08 pm PT'
 - NONE
-- '6:04pm'
+- '6:04 pm PT'
 - NONE
-- '5:57pm'
-- '5:54pm'
-- NONE
-- NONE
-- '5:46pm'
-- NONE
-- '5:39pm'
+- '5:57 pm PT'
+- '5:54 pm PT'
 - NONE
 - NONE
-- '5:31pm'
+- '5:46 pm PT'
+- NONE
+- '5:39 pm PT'
+- NONE
+- NONE
+- '5:31 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1050,59 +1050,59 @@
 - NONE
 - NONE
 :279:
-- '7:04pm'
-- '6:57pm'
+- '7:04 pm PT'
+- '6:57 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:45pm'
+- '6:45 pm PT'
 - NONE
-- '6:36pm'
+- '6:36 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:29pm'
-- '6:25pm'
-- '6:19pm'
-- '6:16pm'
-- '6:11pm'
-- '6:07pm'
-- '6:03pm'
-- '5:58pm'
-- '5:52pm'
-- '5:44pm'
+- '6:29 pm PT'
+- '6:25 pm PT'
+- '6:19 pm PT'
+- '6:16 pm PT'
+- '6:11 pm PT'
+- '6:07 pm PT'
+- '6:03 pm PT'
+- '5:58 pm PT'
+- '5:52 pm PT'
+- '5:44 pm PT'
 - NONE
-- '5:39pm'
-- '5:32pm'
+- '5:39 pm PT'
+- '5:32 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :381:
-- '6:47pm'
-- '6:40pm'
+- '6:47 pm PT'
+- '6:40 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:28pm'
+- '6:28 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:17pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- '6:06pm'
-- NONE
-- NONE
-- '5:58pm'
+- '6:17 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '5:45pm'
+- '6:06 pm PT'
+- NONE
+- NONE
+- '5:58 pm PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '5:45 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1110,59 +1110,59 @@
 - NONE
 - NONE
 :283:
-- '7:31pm'
-- '7:23pm'
-- '7:15pm'
-- '7:07pm'
-- '7:03pm'
-- '6:59pm'
-- '6:53pm'
-- '6:48pm'
-- '6:45pm'
-- '6:42pm'
-- '6:38pm'
-- '6:35pm'
-- '6:31pm'
+- '7:31 pm PT'
+- '7:23 pm PT'
+- '7:15 pm PT'
+- '7:07 pm PT'
+- '7:03 pm PT'
+- '6:59 pm PT'
+- '6:53 pm PT'
+- '6:48 pm PT'
+- '6:45 pm PT'
+- '6:42 pm PT'
+- '6:38 pm PT'
+- '6:35 pm PT'
+- '6:31 pm PT'
 - NONE
-- '6:24pm'
-- NONE
-- NONE
+- '6:24 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:10pm'
 - NONE
-- '6:05pm'
-- '5:58pm'
+- NONE
+- '6:10 pm PT'
+- NONE
+- '6:05 pm PT'
+- '5:58 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :385:
-- '7:26pm'
-- '7:19pm'
+- '7:26 pm PT'
+- '7:19 pm PT'
 - NONE
 - NONE
 - NONE
-- '7:07pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- '6:52pm'
-- '6:46pm'
-- '6:43pm'
-- NONE
-- NONE
-- '6:35pm'
+- '7:07 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '6:23pm'
+- NONE
+- NONE
+- '6:52 pm PT'
+- '6:46 pm PT'
+- '6:43 pm PT'
+- NONE
+- NONE
+- '6:35 pm PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '6:23 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1170,59 +1170,59 @@
 - NONE
 - NONE
 :287:
-- '7:43pm'
-- '7:35pm'
+- '7:43 pm PT'
+- '7:35 pm PT'
 - NONE
 - NONE
-- '7:24pm'
+- '7:24 pm PT'
 - NONE
-- '7:17pm'
-- '7:12pm'
+- '7:17 pm PT'
+- '7:12 pm PT'
 - NONE
-- '7:08pm'
+- '7:08 pm PT'
 - NONE
-- '7:04pm'
+- '7:04 pm PT'
 - NONE
-- '6:57pm'
-- '6:54pm'
-- NONE
-- NONE
-- '6:46pm'
-- NONE
-- '6:39pm'
+- '6:57 pm PT'
+- '6:54 pm PT'
 - NONE
 - NONE
-- '6:31pm'
-- '6:24pm'
+- '6:46 pm PT'
+- NONE
+- '6:39 pm PT'
+- NONE
+- NONE
+- '6:31 pm PT'
+- '6:24 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :289:
-- '8:02pm'
-- '7:55pm'
+- '8:02 pm PT'
+- '7:55 pm PT'
 - NONE
 - NONE
 - NONE
-- '7:43pm'
-- '7:37pm'
-- '7:32pm'
+- '7:43 pm PT'
+- '7:37 pm PT'
+- '7:32 pm PT'
 - NONE
-- '7:28pm'
+- '7:28 pm PT'
 - NONE
-- '7:23pm'
-- '7:19pm'
-- '7:13pm'
-- '7:10pm'
-- '7:06pm'
+- '7:23 pm PT'
+- '7:19 pm PT'
+- '7:13 pm PT'
+- '7:10 pm PT'
+- '7:06 pm PT'
 - NONE
-- '7:00pm'
+- '7:00 pm PT'
 - NONE
-- '6:53pm'
+- '6:53 pm PT'
 - NONE
 - NONE
-- '6:45pm'
+- '6:45 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1230,29 +1230,29 @@
 - NONE
 - NONE
 :191:
-- '8:23pm'
-- '8:14pm'
-- '8:09pm'
-- '8:03pm'
-- '7:59pm'
-- '7:55pm'
-- '7:50pm'
-- '7:45pm'
-- '7:42pm'
-- '7:39pm'
-- '7:36pm'
-- '7:33pm'
-- '7:29pm'
-- '7:24pm'
-- '7:21pm'
-- '7:17pm'
-- '7:13pm'
-- '7:09pm'
-- '7:04pm'
-- '7:00pm'
-- '6:55pm'
+- '8:23 pm PT'
+- '8:14 pm PT'
+- '8:09 pm PT'
+- '8:03 pm PT'
+- '7:59 pm PT'
+- '7:55 pm PT'
+- '7:50 pm PT'
+- '7:45 pm PT'
+- '7:42 pm PT'
+- '7:39 pm PT'
+- '7:36 pm PT'
+- '7:33 pm PT'
+- '7:29 pm PT'
+- '7:24 pm PT'
+- '7:21 pm PT'
+- '7:17 pm PT'
+- '7:13 pm PT'
+- '7:09 pm PT'
+- '7:04 pm PT'
+- '7:00 pm PT'
+- '6:55 pm PT'
 - NONE
-- '6:50pm'
+- '6:50 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1260,29 +1260,29 @@
 - NONE
 - NONE
 :193:
-- '9:03pm'
-- '8:54pm'
-- '8:49pm'
-- '8:43pm'
-- '8:39pm'
-- '8:35pm'
-- '8:30pm'
-- '8:25pm'
-- '8:22pm'
-- '8:19pm'
-- '8:16pm'
-- '8:13pm'
-- '8:09pm'
-- '8:04pm'
-- '8:01pm'
-- '7:57pm'
-- '7:53pm'
-- '7:49pm'
-- '7:44pm'
-- '7:40pm'
-- '7:35pm'
+- '9:03 pm PT'
+- '8:54 pm PT'
+- '8:49 pm PT'
+- '8:43 pm PT'
+- '8:39 pm PT'
+- '8:35 pm PT'
+- '8:30 pm PT'
+- '8:25 pm PT'
+- '8:22 pm PT'
+- '8:19 pm PT'
+- '8:16 pm PT'
+- '8:13 pm PT'
+- '8:09 pm PT'
+- '8:04 pm PT'
+- '8:01 pm PT'
+- '7:57 pm PT'
+- '7:53 pm PT'
+- '7:49 pm PT'
+- '7:44 pm PT'
+- '7:40 pm PT'
+- '7:35 pm PT'
 - NONE
-- '7:30pm'
+- '7:30 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1290,89 +1290,89 @@
 - NONE
 - NONE
 :195:
-- '10:03pm'
-- '9:54pm'
-- '9:49pm'
-- '9:43pm'
-- '9:39pm'
-- '9:35pm'
-- '9:30pm'
-- '9:25pm'
-- '9:22pm'
-- '9:19pm'
-- '9:16pm'
-- '9:13pm'
-- '9:09pm'
-- '9:04pm'
-- '9:01pm'
-- '8:57pm'
-- '8:53pm'
-- '8:49pm'
-- '8:44pm'
-- '8:40pm'
-- '8:35pm'
+- '10:03 pm PT'
+- '9:54 pm PT'
+- '9:49 pm PT'
+- '9:43 pm PT'
+- '9:39 pm PT'
+- '9:35 pm PT'
+- '9:30 pm PT'
+- '9:25 pm PT'
+- '9:22 pm PT'
+- '9:19 pm PT'
+- '9:16 pm PT'
+- '9:13 pm PT'
+- '9:09 pm PT'
+- '9:04 pm PT'
+- '9:01 pm PT'
+- '8:57 pm PT'
+- '8:53 pm PT'
+- '8:49 pm PT'
+- '8:44 pm PT'
+- '8:40 pm PT'
+- '8:35 pm PT'
 - NONE
-- '8:30pm'
-- '8:23pm'
+- '8:30 pm PT'
+- '8:23 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :197:
-- '11:03pm'
-- '10:54pm'
-- '10:49pm'
-- '10:43pm'
-- '10:39pm'
-- '10:35pm'
-- '10:30pm'
-- '10:25pm'
-- '10:22pm'
-- '10:19pm'
-- '10:16pm'
-- '10:13pm'
-- '10:09pm'
-- '10:04pm'
-- '10:01pm'
-- '9:57pm'
-- '9:53pm'
-- '9:49pm'
-- '9:44pm'
-- '9:40pm'
-- '9:35pm'
+- '11:03 pm PT'
+- '10:54 pm PT'
+- '10:49 pm PT'
+- '10:43 pm PT'
+- '10:39 pm PT'
+- '10:35 pm PT'
+- '10:30 pm PT'
+- '10:25 pm PT'
+- '10:22 pm PT'
+- '10:19 pm PT'
+- '10:16 pm PT'
+- '10:13 pm PT'
+- '10:09 pm PT'
+- '10:04 pm PT'
+- '10:01 pm PT'
+- '9:57 pm PT'
+- '9:53 pm PT'
+- '9:49 pm PT'
+- '9:44 pm PT'
+- '9:40 pm PT'
+- '9:35 pm PT'
 - NONE
-- '9:30pm'
-- '9:23pm'
+- '9:30 pm PT'
+- '9:23 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :199:
-- '12:03pm'
-- '11:54pm'
-- '11:49pm'
-- '11:43pm'
-- '11:39pm'
-- '11:35pm'
-- '11:30pm'
-- '11:25pm'
-- '11:22pm'
-- '11:19pm'
-- '11:16pm'
-- '11:13pm'
-- '11:09pm'
-- '11:04pm'
-- '11:01pm'
-- '10:57pm'
-- '10:53pm'
-- '10:49pm'
-- '10:44pm'
-- '10:40pm'
-- '10:35pm'
+- '12:03 pm PT'
+- '11:54 pm PT'
+- '11:49 pm PT'
+- '11:43 pm PT'
+- '11:39 pm PT'
+- '11:35 pm PT'
+- '11:30 pm PT'
+- '11:25 pm PT'
+- '11:22 pm PT'
+- '11:19 pm PT'
+- '11:16 pm PT'
+- '11:13 pm PT'
+- '11:09 pm PT'
+- '11:04 pm PT'
+- '11:01 pm PT'
+- '10:57 pm PT'
+- '10:53 pm PT'
+- '10:49 pm PT'
+- '10:44 pm PT'
+- '10:40 pm PT'
+- '10:35 pm PT'
 - NONE
-- '10:30pm'
+- '10:30 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1380,29 +1380,29 @@
 - NONE
 - NONE
 :102:
-- '4:55am'
-- '5:00am'
-- '5:05am'
-- '5:11am'
-- '5:15am'
-- '5:19am'
-- '5:23am'
-- '5:28am'
-- '5:31am'
-- '5:34am'
-- '5:37am'
-- '5:40am'
-- '5:45am'
-- '5:50am'
-- '5:53am'
-- '5:57am'
-- '6:01am'
-- '6:05am'
-- '6:10am'
-- '6:14am'
-- '6:19am'
+- '4:55 am PT'
+- '5:00 am PT'
+- '5:05 am PT'
+- '5:11 am PT'
+- '5:15 am PT'
+- '5:19 am PT'
+- '5:23 am PT'
+- '5:28 am PT'
+- '5:31 am PT'
+- '5:34 am PT'
+- '5:37 am PT'
+- '5:40 am PT'
+- '5:45 am PT'
+- '5:50 am PT'
+- '5:53 am PT'
+- '5:57 am PT'
+- '6:01 am PT'
+- '6:05 am PT'
+- '6:10 am PT'
+- '6:14 am PT'
+- '6:19 am PT'
 - NONE
-- '6:28am'
+- '6:28 am PT'
 - NONE
 - NONE
 - NONE
@@ -1410,59 +1410,59 @@
 - NONE
 - NONE
 :104:
-- '5:25am'
-- '5:30am'
-- '5:35am'
-- '5:41am'
-- '5:45am'
-- '5:49am'
-- '5:53am'
-- '5:58am'
-- '6:01am'
-- '6:04am'
-- '6:07am'
-- '6:10am'
-- '6:15am'
-- '6:20am'
-- '6:23am'
-- '6:27am'
-- '6:31am'
-- '6:35am'
-- '6:40am'
-- '6:44am'
-- '6:49am'
+- '5:25 am PT'
+- '5:30 am PT'
+- '5:35 am PT'
+- '5:41 am PT'
+- '5:45 am PT'
+- '5:49 am PT'
+- '5:53 am PT'
+- '5:58 am PT'
+- '6:01 am PT'
+- '6:04 am PT'
+- '6:07 am PT'
+- '6:10 am PT'
+- '6:15 am PT'
+- '6:20 am PT'
+- '6:23 am PT'
+- '6:27 am PT'
+- '6:31 am PT'
+- '6:35 am PT'
+- '6:40 am PT'
+- '6:44 am PT'
+- '6:49 am PT'
 - NONE
-- '6:58am'
-- '7:05am'
+- '6:58 am PT'
+- '7:05 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :206:
-- '6:11am'
-- '6:16am'
+- '6:11 am PT'
+- '6:16 am PT'
 - NONE
 - NONE
 - NONE
-- '6:29am'
-- '6:33am'
-- '6:38am'
+- '6:29 am PT'
+- '6:33 am PT'
+- '6:38 am PT'
 - NONE
-- '6:42am'
+- '6:42 am PT'
 - NONE
-- '6:46am'
-- '6:51am'
-- '6:56am'
-- '6:59am'
-- '7:03am'
+- '6:46 am PT'
+- '6:51 am PT'
+- '6:56 am PT'
+- '6:59 am PT'
+- '7:03 am PT'
 - NONE
-- '7:09am'
+- '7:09 am PT'
 - NONE
-- '7:14am'
+- '7:14 am PT'
 - NONE
 - NONE
-- '7:26am'
+- '7:26 am PT'
 - NONE
 - NONE
 - NONE
@@ -1470,89 +1470,89 @@
 - NONE
 - NONE
 :208:
-- '6:24am'
-- '6:29am'
-- '6:34am'
-- '6:40am'
-- '6:44am'
-- '6:48am'
-- '6:52am'
-- '6:57am'
-- '7:00am'
-- '7:03am'
-- '7:06am'
-- '7:09am'
-- '7:14am'
+- '6:24 am PT'
+- '6:29 am PT'
+- '6:34 am PT'
+- '6:40 am PT'
+- '6:44 am PT'
+- '6:48 am PT'
+- '6:52 am PT'
+- '6:57 am PT'
+- '7:00 am PT'
+- '7:03 am PT'
+- '7:06 am PT'
+- '7:09 am PT'
+- '7:14 am PT'
 - NONE
-- '7:20am'
-- NONE
-- NONE
+- '7:20 am PT'
 - NONE
 - NONE
 - NONE
-- '7:36am'
 - NONE
-- '7:45am'
-- '7:52am'
+- NONE
+- '7:36 am PT'
+- NONE
+- '7:45 am PT'
+- '7:52 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :210:
-- '6:44am'
-- '6:49am'
+- '6:44 am PT'
+- '6:49 am PT'
 - NONE
 - NONE
 - NONE
-- '7:01am'
+- '7:01 am PT'
 - NONE
-- '7:09am'
+- '7:09 am PT'
 - NONE
 - NONE
 - NONE
-- '7:15am'
-- '7:20am'
-- '7:25am'
-- '7:28am'
-- '7:32am'
-- '7:36am'
-- '7:40am'
-- '7:45am'
-- '7:51am'
-- '7:58am'
-- '8:01am'
-- '8:08am'
-- '8:15am'
+- '7:15 am PT'
+- '7:20 am PT'
+- '7:25 am PT'
+- '7:28 am PT'
+- '7:32 am PT'
+- '7:36 am PT'
+- '7:40 am PT'
+- '7:45 am PT'
+- '7:51 am PT'
+- '7:58 am PT'
+- '8:01 am PT'
+- '8:08 am PT'
+- '8:15 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :312:
-- '6:57am'
-- '7:02am'
+- '6:57 am PT'
+- '7:02 am PT'
 - NONE
 - NONE
 - NONE
-- '7:15am'
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- '7:30am'
-- '7:35am'
-- '7:38am'
-- NONE
-- NONE
-- '7:46am'
+- '7:15 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '8:00am'
+- NONE
+- NONE
+- '7:30 am PT'
+- '7:35 am PT'
+- '7:38 am PT'
+- NONE
+- NONE
+- '7:46 am PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '8:00 am PT'
 - NONE
 - NONE
 - NONE
@@ -1560,29 +1560,29 @@
 - NONE
 - NONE
 :314:
-- '7:14am'
-- '7:19am'
+- '7:14 am PT'
+- '7:19 am PT'
 - NONE
 - NONE
 - NONE
-- '7:32am'
+- '7:32 am PT'
 - NONE
 - NONE
 - NONE
-- '7:42am'
-- NONE
-- NONE
-- NONE
-- NONE
-- '7:53am'
-- NONE
-- NONE
-- '8:00am'
+- '7:42 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '8:15am'
+- '7:53 am PT'
+- NONE
+- NONE
+- '8:00 am PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '8:15 am PT'
 - NONE
 - NONE
 - NONE
@@ -1590,29 +1590,29 @@
 - NONE
 - NONE
 :216:
-- '7:19am'
-- '7:24am'
+- '7:19 am PT'
+- '7:24 am PT'
 - NONE
 - NONE
-- '7:35am'
+- '7:35 am PT'
 - NONE
-- '7:40am'
-- '7:46am'
+- '7:40 am PT'
+- '7:46 am PT'
 - NONE
-- '7:50am'
+- '7:50 am PT'
 - NONE
-- '7:54am'
+- '7:54 am PT'
 - NONE
-- '8:02am'
-- '8:05am'
-- NONE
-- NONE
-- '8:13am'
-- NONE
-- '8:20am'
+- '8:02 am PT'
+- '8:05 am PT'
 - NONE
 - NONE
-- '8:32am'
+- '8:13 am PT'
+- NONE
+- '8:20 am PT'
+- NONE
+- NONE
+- '8:32 am PT'
 - NONE
 - NONE
 - NONE
@@ -1620,89 +1620,89 @@
 - NONE
 - NONE
 :218:
-- '7:24am'
-- '7:29am'
-- '7:34am'
-- '7:40am'
-- '7:44am'
-- '7:48am'
-- '7:52am'
-- '7:57am'
-- '8:00am'
-- '8:03am'
-- '8:06am'
-- '8:09am'
-- '8:14am'
+- '7:24 am PT'
+- '7:29 am PT'
+- '7:34 am PT'
+- '7:40 am PT'
+- '7:44 am PT'
+- '7:48 am PT'
+- '7:52 am PT'
+- '7:57 am PT'
+- '8:00 am PT'
+- '8:03 am PT'
+- '8:06 am PT'
+- '8:09 am PT'
+- '8:14 am PT'
 - NONE
-- '8:20am'
-- NONE
-- NONE
+- '8:20 am PT'
 - NONE
 - NONE
 - NONE
-- '8:36am'
 - NONE
-- '8:45am'
-- '8:52am'
+- NONE
+- '8:36 am PT'
+- NONE
+- '8:45 am PT'
+- '8:52 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :220:
-- '7:44am'
-- '7:49am'
+- '7:44 am PT'
+- '7:49 am PT'
 - NONE
 - NONE
 - NONE
-- '8:01am'
+- '8:01 am PT'
 - NONE
-- '8:09am'
+- '8:09 am PT'
 - NONE
 - NONE
 - NONE
-- '8:15am'
-- '8:20am'
-- '8:25am'
-- '8:28am'
-- '8:32am'
-- '8:36am'
-- '8:40am'
-- '8:45am'
-- '8:51am'
-- '8:58am'
+- '8:15 am PT'
+- '8:20 am PT'
+- '8:25 am PT'
+- '8:28 am PT'
+- '8:32 am PT'
+- '8:36 am PT'
+- '8:40 am PT'
+- '8:45 am PT'
+- '8:51 am PT'
+- '8:58 am PT'
 - NONE
-- '9:07am'
-- '9:14am'
+- '9:07 am PT'
+- '9:14 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :322:
-- '7:57am'
-- '8:02am'
+- '7:57 am PT'
+- '8:02 am PT'
 - NONE
 - NONE
 - NONE
-- '8:15am'
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- '8:30am'
-- '8:35am'
-- '8:38am'
-- NONE
-- NONE
-- '8:46am'
+- '8:15 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '9:00am'
+- NONE
+- NONE
+- '8:30 am PT'
+- '8:35 am PT'
+- '8:38 am PT'
+- NONE
+- NONE
+- '8:46 am PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '9:00 am PT'
 - NONE
 - NONE
 - NONE
@@ -1710,29 +1710,29 @@
 - NONE
 - NONE
 :324:
-- '8:14am'
-- '8:19am'
+- '8:14 am PT'
+- '8:19 am PT'
 - NONE
 - NONE
 - NONE
-- '8:32am'
+- '8:32 am PT'
 - NONE
 - NONE
 - NONE
-- '8:42am'
-- NONE
-- NONE
-- NONE
-- NONE
-- '8:53am'
-- NONE
-- NONE
-- '9:00am'
+- '8:42 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '9:15am'
+- '8:53 am PT'
+- NONE
+- NONE
+- '9:00 am PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '9:15 am PT'
 - NONE
 - NONE
 - NONE
@@ -1740,29 +1740,29 @@
 - NONE
 - NONE
 :226:
-- '8:19am'
-- '8:24am'
+- '8:19 am PT'
+- '8:24 am PT'
 - NONE
 - NONE
-- '8:35am'
+- '8:35 am PT'
 - NONE
-- '8:40am'
-- '8:46am'
+- '8:40 am PT'
+- '8:46 am PT'
 - NONE
-- '8:50am'
+- '8:50 am PT'
 - NONE
-- '8:54am'
+- '8:54 am PT'
 - NONE
-- '9:02am'
-- '9:05am'
-- NONE
-- NONE
-- '9:13am'
-- NONE
-- '9:20am'
+- '9:02 am PT'
+- '9:05 am PT'
 - NONE
 - NONE
-- '9:32am'
+- '9:13 am PT'
+- NONE
+- '9:20 am PT'
+- NONE
+- NONE
+- '9:32 am PT'
 - NONE
 - NONE
 - NONE
@@ -1770,89 +1770,89 @@
 - NONE
 - NONE
 :228:
-- '8:24am'
-- '8:29am'
-- '8:34am'
-- '8:40am'
-- '8:44am'
-- '8:48am'
-- '8:52am'
-- '8:57am'
-- '9:00am'
-- '9:03am'
-- '9:06am'
-- '9:09am'
-- '9:14am'
+- '8:24 am PT'
+- '8:29 am PT'
+- '8:34 am PT'
+- '8:40 am PT'
+- '8:44 am PT'
+- '8:48 am PT'
+- '8:52 am PT'
+- '8:57 am PT'
+- '9:00 am PT'
+- '9:03 am PT'
+- '9:06 am PT'
+- '9:09 am PT'
+- '9:14 am PT'
 - NONE
-- '9:20am'
-- NONE
-- NONE
+- '9:20 am PT'
 - NONE
 - NONE
 - NONE
-- '9:36am'
 - NONE
-- '9:45am'
-- '9:52am'
+- NONE
+- '9:36 am PT'
+- NONE
+- '9:45 am PT'
+- '9:52 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :230:
-- '8:44am'
-- '8:49am'
+- '8:44 am PT'
+- '8:49 am PT'
 - NONE
 - NONE
 - NONE
-- '9:01am'
+- '9:01 am PT'
 - NONE
-- '9:09am'
+- '9:09 am PT'
 - NONE
 - NONE
 - NONE
-- '9:15am'
-- '9:20am'
-- '9:25am'
-- '9:28am'
-- '9:32am'
-- '9:36am'
-- '9:40am'
-- '9:45am'
-- '9:51am'
-- '9:58am'
+- '9:15 am PT'
+- '9:20 am PT'
+- '9:25 am PT'
+- '9:28 am PT'
+- '9:32 am PT'
+- '9:36 am PT'
+- '9:40 am PT'
+- '9:45 am PT'
+- '9:51 am PT'
+- '9:58 am PT'
 - NONE
-- '10:07am'
-- '10:14am'
+- '10:07 am PT'
+- '10:14 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :332:
-- '8:57am'
-- '9:02am'
+- '8:57 am PT'
+- '9:02 am PT'
 - NONE
 - NONE
 - NONE
-- '9:15am'
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- NONE
-- '9:30am'
-- '9:35am'
-- '9:38am'
-- NONE
-- NONE
-- '9:46am'
+- '9:15 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '10:00am'
+- NONE
+- NONE
+- '9:30 am PT'
+- '9:35 am PT'
+- '9:38 am PT'
+- NONE
+- NONE
+- '9:46 am PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '10:00 am PT'
 - NONE
 - NONE
 - NONE
@@ -1860,29 +1860,29 @@
 - NONE
 - NONE
 :134:
-- '9:07am'
-- '9:12am'
-- '9:17am'
-- '9:23am'
-- '9:27am'
-- '9:31am'
-- '9:35am'
-- '9:40am'
-- '9:43am'
-- '9:46am'
-- '9:49am'
-- '9:52am'
-- '9:57am'
-- '10:02am'
-- '10:05am'
-- '10:09am'
-- '10:13am'
-- '10:17am'
-- '10:22am'
-- '10:26am'
-- '10:31am'
+- '9:07 am PT'
+- '9:12 am PT'
+- '9:17 am PT'
+- '9:23 am PT'
+- '9:27 am PT'
+- '9:31 am PT'
+- '9:35 am PT'
+- '9:40 am PT'
+- '9:43 am PT'
+- '9:46 am PT'
+- '9:49 am PT'
+- '9:52 am PT'
+- '9:57 am PT'
+- '10:02 am PT'
+- '10:05 am PT'
+- '10:09 am PT'
+- '10:13 am PT'
+- '10:17 am PT'
+- '10:22 am PT'
+- '10:26 am PT'
+- '10:31 am PT'
 - NONE
-- '10:40am'
+- '10:40 am PT'
 - NONE
 - NONE
 - NONE
@@ -1890,59 +1890,59 @@
 - NONE
 - NONE
 :236:
-- '9:37am'
+- '9:37 am PT'
 - NONE
 - NONE
 - NONE
-- '9:51am'
-- '9:55am'
-- '9:59am'
-- '10:04am'
+- '9:51 am PT'
+- '9:55 am PT'
+- '9:59 am PT'
+- '10:04 am PT'
 - NONE
-- '10:08am'
-- '10:11am'
-- '10:14am'
-- '10:19am'
-- '10:24am'
-- '10:27am'
-- '10:31am'
-- '10:35am'
-- '10:39am'
-- '10:44am'
-- '10:48am'
-- '10:53am'
+- '10:08 am PT'
+- '10:11 am PT'
+- '10:14 am PT'
+- '10:19 am PT'
+- '10:24 am PT'
+- '10:27 am PT'
+- '10:31 am PT'
+- '10:35 am PT'
+- '10:39 am PT'
+- '10:44 am PT'
+- '10:48 am PT'
+- '10:53 am PT'
 - NONE
-- '11:02am'
-- '11:09am'
+- '11:02 am PT'
+- '11:09 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :138:
-- '10:07am'
-- '10:12am'
-- '10:17am'
-- '10:23am'
-- '10:27am'
-- '10:31am'
-- '10:35am'
-- '10:40am'
-- '10:43am'
-- '10:46am'
-- '10:49am'
-- '10:52am'
-- '10:57am'
-- '11:02am'
-- '11:05am'
-- '11:09am'
-- '11:13am'
-- '11:17am'
-- '11:22am'
-- '11:26am'
-- '11:31am'
+- '10:07 am PT'
+- '10:12 am PT'
+- '10:17 am PT'
+- '10:23 am PT'
+- '10:27 am PT'
+- '10:31 am PT'
+- '10:35 am PT'
+- '10:40 am PT'
+- '10:43 am PT'
+- '10:46 am PT'
+- '10:49 am PT'
+- '10:52 am PT'
+- '10:57 am PT'
+- '11:02 am PT'
+- '11:05 am PT'
+- '11:09 am PT'
+- '11:13 am PT'
+- '11:17 am PT'
+- '11:22 am PT'
+- '11:26 am PT'
+- '11:31 am PT'
 - NONE
-- '11:40am'
+- '11:40 am PT'
 - NONE
 - NONE
 - NONE
@@ -1950,29 +1950,29 @@
 - NONE
 - NONE
 :142:
-- '11:07am'
-- '11:12am'
-- '11:17am'
-- '11:23am'
-- '11:27am'
-- '11:31am'
-- '11:35am'
-- '11:40am'
-- '11:43am'
-- '11:46am'
-- '11:49am'
-- '11:52am'
-- '11:57am'
-- '12:02pm'
-- '12:05pm'
-- '12:09pm'
-- '12:13pm'
-- '12:17pm'
-- '12:22pm'
-- '12:26pm'
-- '12:31pm'
+- '11:07 am PT'
+- '11:12 am PT'
+- '11:17 am PT'
+- '11:23 am PT'
+- '11:27 am PT'
+- '11:31 am PT'
+- '11:35 am PT'
+- '11:40 am PT'
+- '11:43 am PT'
+- '11:46 am PT'
+- '11:49 am PT'
+- '11:52 am PT'
+- '11:57 am PT'
+- '12:02 pm PT'
+- '12:05 pm PT'
+- '12:09 pm PT'
+- '12:13 pm PT'
+- '12:17 pm PT'
+- '12:22 pm PT'
+- '12:26 pm PT'
+- '12:31 pm PT'
 - NONE
-- '12:40pm'
+- '12:40 pm PT'
 - NONE
 - NONE
 - NONE
@@ -1980,29 +1980,29 @@
 - NONE
 - NONE
 :146:
-- '12:07pm'
-- '12:12pm'
-- '12:17pm'
-- '12:23pm'
-- '12:27pm'
-- '12:31pm'
-- '12:35pm'
-- '12:40pm'
-- '12:43pm'
-- '12:46pm'
-- '12:49pm'
-- '12:52pm'
-- '12:57pm'
-- '1:02pm'
-- '1:05pm'
-- '1:09pm'
-- '1:13pm'
-- '1:17pm'
-- '1:22pm'
-- '1:26pm'
-- '1:31pm'
+- '12:07 pm PT'
+- '12:12 pm PT'
+- '12:17 pm PT'
+- '12:23 pm PT'
+- '12:27 pm PT'
+- '12:31 pm PT'
+- '12:35 pm PT'
+- '12:40 pm PT'
+- '12:43 pm PT'
+- '12:46 pm PT'
+- '12:49 pm PT'
+- '12:52 pm PT'
+- '12:57 pm PT'
+- '1:02 pm PT'
+- '1:05 pm PT'
+- '1:09 pm PT'
+- '1:13 pm PT'
+- '1:17 pm PT'
+- '1:22 pm PT'
+- '1:26 pm PT'
+- '1:31 pm PT'
 - NONE
-- '1:40pm'
+- '1:40 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2010,29 +2010,29 @@
 - NONE
 - NONE
 :150:
-- '1:07pm'
-- '1:12pm'
-- '1:17pm'
-- '1:23pm'
-- '1:27pm'
-- '1:31pm'
-- '1:35pm'
-- '1:40pm'
-- '1:43pm'
-- '1:46pm'
-- '1:49pm'
-- '1:52pm'
-- '1:57pm'
-- '2:02pm'
-- '2:05pm'
-- '2:09pm'
-- '2:13pm'
-- '2:17pm'
-- '2:22pm'
-- '2:26pm'
-- '2:31pm'
+- '1:07 pm PT'
+- '1:12 pm PT'
+- '1:17 pm PT'
+- '1:23 pm PT'
+- '1:27 pm PT'
+- '1:31 pm PT'
+- '1:35 pm PT'
+- '1:40 pm PT'
+- '1:43 pm PT'
+- '1:46 pm PT'
+- '1:49 pm PT'
+- '1:52 pm PT'
+- '1:57 pm PT'
+- '2:02 pm PT'
+- '2:05 pm PT'
+- '2:09 pm PT'
+- '2:13 pm PT'
+- '2:17 pm PT'
+- '2:22 pm PT'
+- '2:26 pm PT'
+- '2:31 pm PT'
 - NONE
-- '2:40pm'
+- '2:40 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2040,29 +2040,29 @@
 - NONE
 - NONE
 :152:
-- '2:07pm'
-- '2:12pm'
-- '2:17pm'
-- '2:23pm'
-- '2:27pm'
-- '2:31pm'
-- '2:35pm'
-- '2:40pm'
-- '2:43pm'
-- '2:46pm'
-- '2:49pm'
-- '2:52pm'
-- '2:57pm'
-- '3:02pm'
-- '3:05pm'
-- '3:09pm'
-- '3:13pm'
-- '3:17pm'
-- '3:22pm'
-- '3:26pm'
-- '3:31pm'
+- '2:07 pm PT'
+- '2:12 pm PT'
+- '2:17 pm PT'
+- '2:23 pm PT'
+- '2:27 pm PT'
+- '2:31 pm PT'
+- '2:35 pm PT'
+- '2:40 pm PT'
+- '2:43 pm PT'
+- '2:46 pm PT'
+- '2:49 pm PT'
+- '2:52 pm PT'
+- '2:57 pm PT'
+- '3:02 pm PT'
+- '3:05 pm PT'
+- '3:09 pm PT'
+- '3:13 pm PT'
+- '3:17 pm PT'
+- '3:22 pm PT'
+- '3:26 pm PT'
+- '3:31 pm PT'
 - NONE
-- '3:40pm'
+- '3:40 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2070,119 +2070,119 @@
 - NONE
 - NONE
 :254:
-- '2:37pm'
+- '2:37 pm PT'
 - NONE
 - NONE
 - NONE
-- '2:51pm'
-- '2:55pm'
-- '2:59pm'
-- '3:04pm'
+- '2:51 pm PT'
+- '2:55 pm PT'
+- '2:59 pm PT'
+- '3:04 pm PT'
 - NONE
-- '3:08pm'
-- '3:11pm'
-- '3:14pm'
-- '3:19pm'
-- '3:24pm'
-- '3:27pm'
-- '3:31pm'
-- '3:35pm'
-- '3:39pm'
-- '3:44pm'
-- '3:48pm'
-- '3:53pm'
+- '3:08 pm PT'
+- '3:11 pm PT'
+- '3:14 pm PT'
+- '3:19 pm PT'
+- '3:24 pm PT'
+- '3:27 pm PT'
+- '3:31 pm PT'
+- '3:35 pm PT'
+- '3:39 pm PT'
+- '3:44 pm PT'
+- '3:48 pm PT'
+- '3:53 pm PT'
 - NONE
-- '4:02pm'
-- '4:09pm'
+- '4:02 pm PT'
+- '4:09 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :156:
-- '3:07pm'
-- '3:12pm'
-- '3:17pm'
-- '3:23pm'
-- '3:27pm'
-- '3:31pm'
-- '3:35pm'
-- '3:40pm'
-- '3:43pm'
-- '3:46pm'
-- '3:49pm'
-- '3:52pm'
-- '3:57pm'
-- '4:02pm'
-- '4:05pm'
-- '4:09pm'
-- '4:13pm'
-- '4:17pm'
-- '4:22pm'
-- '4:26pm'
-- '4:31pm'
-- '4:34pm'
-- '4:41pm'
-- '4:47pm'
-- '4:54pm'
-- '5:00pm'
-- '5:13pm'
-- '5:19pm'
-- '5:32pm'
+- '3:07 pm PT'
+- '3:12 pm PT'
+- '3:17 pm PT'
+- '3:23 pm PT'
+- '3:27 pm PT'
+- '3:31 pm PT'
+- '3:35 pm PT'
+- '3:40 pm PT'
+- '3:43 pm PT'
+- '3:46 pm PT'
+- '3:49 pm PT'
+- '3:52 pm PT'
+- '3:57 pm PT'
+- '4:02 pm PT'
+- '4:05 pm PT'
+- '4:09 pm PT'
+- '4:13 pm PT'
+- '4:17 pm PT'
+- '4:22 pm PT'
+- '4:26 pm PT'
+- '4:31 pm PT'
+- '4:34 pm PT'
+- '4:41 pm PT'
+- '4:47 pm PT'
+- '4:54 pm PT'
+- '5:00 pm PT'
+- '5:13 pm PT'
+- '5:19 pm PT'
+- '5:32 pm PT'
 :258:
-- '3:37pm'
+- '3:37 pm PT'
 - NONE
 - NONE
 - NONE
-- '3:51pm'
-- '3:55pm'
-- '3:59pm'
-- '4:04pm'
+- '3:51 pm PT'
+- '3:55 pm PT'
+- '3:59 pm PT'
+- '4:04 pm PT'
 - NONE
-- '4:08pm'
-- '4:11pm'
-- '4:14pm'
-- '4:19pm'
-- '4:24pm'
-- '4:27pm'
-- '4:31pm'
-- '4:35pm'
-- '4:39pm'
-- '4:44pm'
-- '4:48pm'
-- '4:53pm'
+- '4:08 pm PT'
+- '4:11 pm PT'
+- '4:14 pm PT'
+- '4:19 pm PT'
+- '4:24 pm PT'
+- '4:27 pm PT'
+- '4:31 pm PT'
+- '4:35 pm PT'
+- '4:39 pm PT'
+- '4:44 pm PT'
+- '4:48 pm PT'
+- '4:53 pm PT'
 - NONE
-- '5:02pm'
-- '5:09pm'
+- '5:02 pm PT'
+- '5:09 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :360:
-- '4:09pm'
+- '4:09 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '4:25pm'
+- '4:25 pm PT'
 - NONE
 - NONE
 - NONE
-- '4:35pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- '4:46pm'
-- NONE
-- NONE
-- '4:53pm'
+- '4:35 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '5:08pm'
+- '4:46 pm PT'
+- NONE
+- NONE
+- '4:53 pm PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '5:08 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2190,29 +2190,29 @@
 - NONE
 - NONE
 :262:
-- '4:19pm'
+- '4:19 pm PT'
 - NONE
 - NONE
 - NONE
-- '4:33pm'
+- '4:33 pm PT'
 - NONE
-- '4:38pm'
-- '4:44pm'
+- '4:38 pm PT'
+- '4:44 pm PT'
 - NONE
-- '4:49pm'
+- '4:49 pm PT'
 - NONE
-- '4:53pm'
-- NONE
-- NONE
-- '5:03pm'
-- '5:07pm'
-- NONE
-- '5:13pm'
-- '5:18pm'
+- '4:53 pm PT'
 - NONE
 - NONE
+- '5:03 pm PT'
+- '5:07 pm PT'
 - NONE
-- '5:29pm'
+- '5:13 pm PT'
+- '5:18 pm PT'
+- NONE
+- NONE
+- NONE
+- '5:29 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2220,29 +2220,29 @@
 - NONE
 - NONE
 :264:
-- '4:27pm'
-- '4:32pm'
-- '4:40pm'
-- '4:48pm'
-- '4:52pm'
-- '4:56pm'
-- '5:00pm'
-- '5:06pm'
-- '5:09pm'
-- '5:13pm'
-- '5:16pm'
-- '5:20pm'
-- '5:24pm'
-- '5:30pm'
+- '4:27 pm PT'
+- '4:32 pm PT'
+- '4:40 pm PT'
+- '4:48 pm PT'
+- '4:52 pm PT'
+- '4:56 pm PT'
+- '5:00 pm PT'
+- '5:06 pm PT'
+- '5:09 pm PT'
+- '5:13 pm PT'
+- '5:16 pm PT'
+- '5:20 pm PT'
+- '5:24 pm PT'
+- '5:30 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:38pm'
-- '5:43pm'
+- '5:38 pm PT'
+- '5:43 pm PT'
 - NONE
-- '5:51pm'
+- '5:51 pm PT'
 - NONE
-- '5:59pm'
+- '5:59 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2250,89 +2250,89 @@
 - NONE
 - NONE
 :366:
-- '4:33pm'
+- '4:33 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '4:49pm'
+- '4:49 pm PT'
 - NONE
-- '4:59pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- '5:08pm'
-- NONE
-- '5:14pm'
+- '4:59 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:23pm'
+- NONE
+- '5:08 pm PT'
+- NONE
+- '5:14 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:34pm'
-- '5:41pm'
+- '5:23 pm PT'
+- NONE
+- NONE
+- NONE
+- '5:34 pm PT'
+- '5:41 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :268:
-- '4:56pm'
+- '4:56 pm PT'
 - NONE
 - NONE
-- '5:08pm'
+- '5:08 pm PT'
 - NONE
-- '5:14pm'
-- NONE
-- NONE
-- NONE
-- '5:24pm'
+- '5:14 pm PT'
 - NONE
 - NONE
-- '5:30pm'
-- '5:36pm'
-- '5:40pm'
-- '5:44pm'
-- '5:48pm'
-- '5:52pm'
-- '5:57pm'
-- '6:03pm'
-- '6:10pm'
 - NONE
-- '6:18pm'
-- '6:24pm'
-- '6:31pm'
-- '6:37pm'
-- '6:50pm'
-- '6:56pm'
-- '7:09pm'
+- '5:24 pm PT'
+- NONE
+- NONE
+- '5:30 pm PT'
+- '5:36 pm PT'
+- '5:40 pm PT'
+- '5:44 pm PT'
+- '5:48 pm PT'
+- '5:52 pm PT'
+- '5:57 pm PT'
+- '6:03 pm PT'
+- '6:10 pm PT'
+- NONE
+- '6:18 pm PT'
+- '6:24 pm PT'
+- '6:31 pm PT'
+- '6:37 pm PT'
+- '6:50 pm PT'
+- '6:56 pm PT'
+- '7:09 pm PT'
 :370:
-- '5:14pm'
+- '5:14 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '5:30pm'
+- '5:30 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:40pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- '5:51pm'
-- NONE
-- NONE
-- '5:58pm'
+- '5:40 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '6:13pm'
+- '5:51 pm PT'
+- NONE
+- NONE
+- '5:58 pm PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '6:13 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2340,29 +2340,29 @@
 - NONE
 - NONE
 :272:
-- '5:20pm'
+- '5:20 pm PT'
 - NONE
 - NONE
 - NONE
-- '5:34pm'
+- '5:34 pm PT'
 - NONE
-- '5:39pm'
-- '5:45pm'
+- '5:39 pm PT'
+- '5:45 pm PT'
 - NONE
-- '5:50pm'
+- '5:50 pm PT'
 - NONE
-- '5:54pm'
-- NONE
-- NONE
-- '6:04pm'
-- '6:08pm'
-- NONE
-- '6:14pm'
-- '6:19pm'
+- '5:54 pm PT'
 - NONE
 - NONE
+- '6:04 pm PT'
+- '6:08 pm PT'
 - NONE
-- '6:30pm'
+- '6:14 pm PT'
+- '6:19 pm PT'
+- NONE
+- NONE
+- NONE
+- '6:30 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2370,119 +2370,119 @@
 - NONE
 - NONE
 :274:
-- '5:27pm'
-- '5:32pm'
-- '5:40pm'
-- '5:48pm'
-- '5:52pm'
-- '5:56pm'
-- '6:00pm'
-- '6:06pm'
-- '6:09pm'
-- '6:13pm'
-- '6:16pm'
-- '6:20pm'
-- '6:24pm'
-- '6:30pm'
+- '5:27 pm PT'
+- '5:32 pm PT'
+- '5:40 pm PT'
+- '5:48 pm PT'
+- '5:52 pm PT'
+- '5:56 pm PT'
+- '6:00 pm PT'
+- '6:06 pm PT'
+- '6:09 pm PT'
+- '6:13 pm PT'
+- '6:16 pm PT'
+- '6:20 pm PT'
+- '6:24 pm PT'
+- '6:30 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:38pm'
-- '6:43pm'
-- '6:47pm'
-- '6:52pm'
+- '6:38 pm PT'
+- '6:43 pm PT'
+- '6:47 pm PT'
+- '6:52 pm PT'
 - NONE
-- '7:00pm'
-- '7:06pm'
-- '7:13pm'
-- '7:19pm'
-- '7:32pm'
-- '7:38pm'
-- '7:51pm'
+- '7:00 pm PT'
+- '7:06 pm PT'
+- '7:13 pm PT'
+- '7:19 pm PT'
+- '7:32 pm PT'
+- '7:38 pm PT'
+- '7:51 pm PT'
 :376:
-- '5:33pm'
+- '5:33 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '5:49pm'
+- '5:49 pm PT'
 - NONE
-- '5:59pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- '6:08pm'
-- NONE
-- '6:14pm'
+- '5:59 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:24pm'
+- NONE
+- '6:08 pm PT'
+- NONE
+- '6:14 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:35pm'
-- '6:42pm'
+- '6:24 pm PT'
+- NONE
+- NONE
+- NONE
+- '6:35 pm PT'
+- '6:42 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :278:
-- '5:56pm'
+- '5:56 pm PT'
 - NONE
 - NONE
-- '6:08pm'
+- '6:08 pm PT'
 - NONE
-- '6:14pm'
-- NONE
-- NONE
-- NONE
-- '6:24pm'
+- '6:14 pm PT'
 - NONE
 - NONE
-- '6:30pm'
-- '6:36pm'
-- '6:40pm'
-- '6:44pm'
-- '6:48pm'
-- '6:52pm'
-- '6:57pm'
-- '7:03pm'
-- '7:10pm'
 - NONE
-- '7:18pm'
-- '7:25pm'
+- '6:24 pm PT'
+- NONE
+- NONE
+- '6:30 pm PT'
+- '6:36 pm PT'
+- '6:40 pm PT'
+- '6:44 pm PT'
+- '6:48 pm PT'
+- '6:52 pm PT'
+- '6:57 pm PT'
+- '7:03 pm PT'
+- '7:10 pm PT'
+- NONE
+- '7:18 pm PT'
+- '7:25 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :380:
-- '6:14pm'
+- '6:14 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '6:30pm'
+- '6:30 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:40pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- '6:51pm'
-- NONE
-- NONE
-- '6:58pm'
+- '6:40 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '7:13pm'
+- '6:51 pm PT'
+- NONE
+- NONE
+- '6:58 pm PT'
+- NONE
+- NONE
+- NONE
+- NONE
+- '7:13 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2490,29 +2490,29 @@
 - NONE
 - NONE
 :282:
-- '6:20pm'
+- '6:20 pm PT'
 - NONE
 - NONE
 - NONE
-- '6:34pm'
+- '6:34 pm PT'
 - NONE
-- '6:39pm'
-- '6:45pm'
+- '6:39 pm PT'
+- '6:45 pm PT'
 - NONE
-- '6:50pm'
+- '6:50 pm PT'
 - NONE
-- '6:54pm'
-- NONE
-- NONE
-- '7:04pm'
-- '7:08pm'
-- NONE
-- '7:14pm'
-- '7:19pm'
+- '6:54 pm PT'
 - NONE
 - NONE
+- '7:04 pm PT'
+- '7:08 pm PT'
 - NONE
-- '7:30pm'
+- '7:14 pm PT'
+- '7:19 pm PT'
+- NONE
+- NONE
+- NONE
+- '7:30 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2520,29 +2520,29 @@
 - NONE
 - NONE
 :284:
-- '6:27pm'
-- '6:32pm'
-- '6:40pm'
-- '6:48pm'
-- '6:52pm'
-- '6:56pm'
-- '7:00pm'
-- '7:06pm'
-- '7:09pm'
-- '7:13pm'
-- '7:16pm'
-- '7:20pm'
-- '7:24pm'
-- '7:30pm'
+- '6:27 pm PT'
+- '6:32 pm PT'
+- '6:40 pm PT'
+- '6:48 pm PT'
+- '6:52 pm PT'
+- '6:56 pm PT'
+- '7:00 pm PT'
+- '7:06 pm PT'
+- '7:09 pm PT'
+- '7:13 pm PT'
+- '7:16 pm PT'
+- '7:20 pm PT'
+- '7:24 pm PT'
+- '7:30 pm PT'
 - NONE
 - NONE
 - NONE
-- '7:38pm'
-- '7:43pm'
+- '7:38 pm PT'
+- '7:43 pm PT'
 - NONE
-- '7:51pm'
+- '7:51 pm PT'
 - NONE
-- '7:59pm'
+- '7:59 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2550,89 +2550,89 @@
 - NONE
 - NONE
 :386:
-- '6:33pm'
+- '6:33 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '6:49pm'
+- '6:49 pm PT'
 - NONE
-- '6:59pm'
-- NONE
-- NONE
-- NONE
-- NONE
-- '7:08pm'
-- NONE
-- '7:14pm'
+- '6:59 pm PT'
 - NONE
 - NONE
 - NONE
-- '7:23pm'
+- NONE
+- '7:08 pm PT'
+- NONE
+- '7:14 pm PT'
 - NONE
 - NONE
 - NONE
-- '7:34pm'
-- '7:41pm'
+- '7:23 pm PT'
+- NONE
+- NONE
+- NONE
+- '7:34 pm PT'
+- '7:41 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :288:
-- '6:56pm'
+- '6:56 pm PT'
 - NONE
 - NONE
-- '7:08pm'
+- '7:08 pm PT'
 - NONE
-- '7:14pm'
-- NONE
-- NONE
-- NONE
-- '7:24pm'
+- '7:14 pm PT'
 - NONE
 - NONE
-- '7:30pm'
-- '7:36pm'
-- '7:40pm'
-- '7:44pm'
-- '7:48pm'
-- '7:52pm'
-- '7:57pm'
-- '8:01pm'
-- '8:06pm'
 - NONE
-- '8:14pm'
-- '8:21pm'
+- '7:24 pm PT'
+- NONE
+- NONE
+- '7:30 pm PT'
+- '7:36 pm PT'
+- '7:40 pm PT'
+- '7:44 pm PT'
+- '7:48 pm PT'
+- '7:52 pm PT'
+- '7:57 pm PT'
+- '8:01 pm PT'
+- '8:06 pm PT'
+- NONE
+- '8:14 pm PT'
+- '8:21 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :190:
-- '7:30pm'
-- '7:35pm'
-- '7:40pm'
-- '7:46pm'
-- '7:50pm'
-- '7:54pm'
-- '7:58pm'
-- '8:03pm'
-- '8:06pm'
-- '8:09pm'
-- '8:12pm'
-- '8:15pm'
-- '8:20pm'
-- '8:25pm'
-- '8:28pm'
-- '8:32pm'
-- '8:36pm'
-- '8:40pm'
-- '8:45pm'
-- '8:49pm'
-- '8:54pm'
+- '7:30 pm PT'
+- '7:35 pm PT'
+- '7:40 pm PT'
+- '7:46 pm PT'
+- '7:50 pm PT'
+- '7:54 pm PT'
+- '7:58 pm PT'
+- '8:03 pm PT'
+- '8:06 pm PT'
+- '8:09 pm PT'
+- '8:12 pm PT'
+- '8:15 pm PT'
+- '8:20 pm PT'
+- '8:25 pm PT'
+- '8:28 pm PT'
+- '8:32 pm PT'
+- '8:36 pm PT'
+- '8:40 pm PT'
+- '8:45 pm PT'
+- '8:49 pm PT'
+- '8:54 pm PT'
 - NONE
-- '9:03pm'
+- '9:03 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2640,89 +2640,89 @@
 - NONE
 - NONE
 :192:
-- '8:40pm'
-- '8:45pm'
-- '8:50pm'
-- '8:56pm'
-- '9:00pm'
-- '9:04pm'
-- '9:08pm'
-- '9:13pm'
-- '9:16pm'
-- '9:19pm'
-- '9:22pm'
-- '9:25pm'
-- '9:30pm'
-- '9:35pm'
-- '9:38pm'
-- '9:42pm'
-- '9:46pm'
-- '9:50pm'
-- '9:55pm'
-- '9:59pm'
-- '10:04pm'
+- '8:40 pm PT'
+- '8:45 pm PT'
+- '8:50 pm PT'
+- '8:56 pm PT'
+- '9:00 pm PT'
+- '9:04 pm PT'
+- '9:08 pm PT'
+- '9:13 pm PT'
+- '9:16 pm PT'
+- '9:19 pm PT'
+- '9:22 pm PT'
+- '9:25 pm PT'
+- '9:30 pm PT'
+- '9:35 pm PT'
+- '9:38 pm PT'
+- '9:42 pm PT'
+- '9:46 pm PT'
+- '9:50 pm PT'
+- '9:55 pm PT'
+- '9:59 pm PT'
+- '10:04 pm PT'
 - NONE
-- '10:13pm'
-- '10:20pm'
+- '10:13 pm PT'
+- '10:20 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :194:
-- '9:40pm'
-- '9:45pm'
-- '9:50pm'
-- '9:56pm'
-- '10:00pm'
-- '10:04pm'
-- '10:08pm'
-- '10:13pm'
-- '10:16pm'
-- '10:19pm'
-- '10:22pm'
-- '10:25pm'
-- '10:30pm'
-- '10:35pm'
-- '10:38pm'
-- '10:42pm'
-- '10:46pm'
-- '10:50pm'
-- '10:55pm'
-- '10:59pm'
-- '11:04pm'
+- '9:40 pm PT'
+- '9:45 pm PT'
+- '9:50 pm PT'
+- '9:56 pm PT'
+- '10:00 pm PT'
+- '10:04 pm PT'
+- '10:08 pm PT'
+- '10:13 pm PT'
+- '10:16 pm PT'
+- '10:19 pm PT'
+- '10:22 pm PT'
+- '10:25 pm PT'
+- '10:30 pm PT'
+- '10:35 pm PT'
+- '10:38 pm PT'
+- '10:42 pm PT'
+- '10:46 pm PT'
+- '10:50 pm PT'
+- '10:55 pm PT'
+- '10:59 pm PT'
+- '11:04 pm PT'
 - NONE
-- '11:13pm'
-- '11:20pm'
+- '11:13 pm PT'
+- '11:20 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :196:
-- '10:40pm'
-- '10:45pm'
-- '10:50pm'
-- '10:56pm'
-- '11:00pm'
-- '11:04pm'
-- '11:08pm'
-- '11:13pm'
-- '11:16pm'
-- '11:19pm'
-- '11:22pm'
-- '11:25pm'
-- '11:30pm'
-- '11:35pm'
-- '11:38pm'
-- '11:42pm'
-- '11:46pm'
-- '11:50pm'
-- '11:55pm'
-- '11:59pm'
-- '12:04pm'
+- '10:40 pm PT'
+- '10:45 pm PT'
+- '10:50 pm PT'
+- '10:56 pm PT'
+- '11:00 pm PT'
+- '11:04 pm PT'
+- '11:08 pm PT'
+- '11:13 pm PT'
+- '11:16 pm PT'
+- '11:19 pm PT'
+- '11:22 pm PT'
+- '11:25 pm PT'
+- '11:30 pm PT'
+- '11:35 pm PT'
+- '11:38 pm PT'
+- '11:42 pm PT'
+- '11:46 pm PT'
+- '11:50 pm PT'
+- '11:55 pm PT'
+- '11:59 pm PT'
+- '12:04 pm PT'
 - NONE
-- '12:13pm'
+- '12:13 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2730,29 +2730,29 @@
 - NONE
 - NONE
 :198:
-- '12:01pm'
-- '12:06pm'
-- '12:11pm'
-- '12:17pm'
-- '12:21pm'
-- '12:25pm'
-- '12:29pm'
-- '12:34pm'
-- '12:37pm'
-- '12:40pm'
-- '12:43pm'
-- '12:46pm'
-- '12:51pm'
-- '12:56pm'
-- '12:59pm'
-- '1:03pm'
-- '1:07pm'
-- '1:11pm'
-- '1:16pm'
-- '1:20pm'
-- '1:25pm'
+- '12:01 pm PT'
+- '12:06 pm PT'
+- '12:11 pm PT'
+- '12:17 pm PT'
+- '12:21 pm PT'
+- '12:25 pm PT'
+- '12:29 pm PT'
+- '12:34 pm PT'
+- '12:37 pm PT'
+- '12:40 pm PT'
+- '12:43 pm PT'
+- '12:46 pm PT'
+- '12:51 pm PT'
+- '12:56 pm PT'
+- '12:59 pm PT'
+- '1:03 pm PT'
+- '1:07 pm PT'
+- '1:11 pm PT'
+- '1:16 pm PT'
+- '1:20 pm PT'
+- '1:25 pm PT'
 - NONE
-- '1:34pm'
+- '1:34 pm PT'
 - NONE
 - NONE
 - NONE
@@ -2760,1080 +2760,1080 @@
 - NONE
 - NONE
 :421:
-- '8:38am'
-- '8:30am'
-- '8:25am'
-- '8:19am'
-- '8:14am'
-- '8:10am'
-- '8:05am'
-- '8:02am'
-- '7:57am'
-- '7:54am'
-- '7:51am'
-- '7:48am'
-- '7:45am'
-- '7:41am'
-- '7:37am'
-- '7:34am'
-- '7:31am'
-- '7:27am'
-- '7:23am'
-- '7:19am'
-- '7:14am'
-- '7:10am'
-- '7:05am'
-- '7:00am'
+- '8:38 am PT'
+- '8:30 am PT'
+- '8:25 am PT'
+- '8:19 am PT'
+- '8:14 am PT'
+- '8:10 am PT'
+- '8:05 am PT'
+- '8:02 am PT'
+- '7:57 am PT'
+- '7:54 am PT'
+- '7:51 am PT'
+- '7:48 am PT'
+- '7:45 am PT'
+- '7:41 am PT'
+- '7:37 am PT'
+- '7:34 am PT'
+- '7:31 am PT'
+- '7:27 am PT'
+- '7:23 am PT'
+- '7:19 am PT'
+- '7:14 am PT'
+- '7:10 am PT'
+- '7:05 am PT'
+- '7:00 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :423:
-- '9:38am'
-- '9:30am'
-- '9:25am'
-- '9:19am'
-- '9:14am'
-- '9:10am'
-- '9:05am'
-- '9:02am'
-- '8:57am'
-- '8:54am'
-- '8:51am'
-- '8:48am'
-- '8:45am'
-- '8:41am'
-- '8:37am'
-- '8:34am'
-- '8:31am'
-- '8:27am'
-- '8:23am'
-- '8:19am'
-- '8:14am'
-- '8:10am'
-- '8:05am'
-- '8:00am'
+- '9:38 am PT'
+- '9:30 am PT'
+- '9:25 am PT'
+- '9:19 am PT'
+- '9:14 am PT'
+- '9:10 am PT'
+- '9:05 am PT'
+- '9:02 am PT'
+- '8:57 am PT'
+- '8:54 am PT'
+- '8:51 am PT'
+- '8:48 am PT'
+- '8:45 am PT'
+- '8:41 am PT'
+- '8:37 am PT'
+- '8:34 am PT'
+- '8:31 am PT'
+- '8:27 am PT'
+- '8:23 am PT'
+- '8:19 am PT'
+- '8:14 am PT'
+- '8:10 am PT'
+- '8:05 am PT'
+- '8:00 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :425:
-- '10:38am'
-- '10:30am'
-- '10:25am'
-- '10:19am'
-- '10:14am'
-- '10:10am'
-- '10:05am'
-- '10:02am'
-- '9:57am'
-- '9:54am'
-- '9:51am'
-- '9:48am'
-- '9:45am'
-- '9:41am'
-- '9:37am'
-- '9:34am'
-- '9:31am'
-- '9:27am'
-- '9:23am'
-- '9:19am'
-- '9:14am'
-- '9:10am'
-- '9:05am'
-- '9:00am'
+- '10:38 am PT'
+- '10:30 am PT'
+- '10:25 am PT'
+- '10:19 am PT'
+- '10:14 am PT'
+- '10:10 am PT'
+- '10:05 am PT'
+- '10:02 am PT'
+- '9:57 am PT'
+- '9:54 am PT'
+- '9:51 am PT'
+- '9:48 am PT'
+- '9:45 am PT'
+- '9:41 am PT'
+- '9:37 am PT'
+- '9:34 am PT'
+- '9:31 am PT'
+- '9:27 am PT'
+- '9:23 am PT'
+- '9:19 am PT'
+- '9:14 am PT'
+- '9:10 am PT'
+- '9:05 am PT'
+- '9:00 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :427:
-- '11:38am'
-- '11:30am'
-- '11:25am'
-- '11:19am'
-- '11:14am'
-- '11:10am'
-- '11:05am'
-- '11:02am'
-- '10:57am'
-- '10:54am'
-- '10:51am'
-- '10:48am'
-- '10:45am'
-- '10:41am'
-- '10:37am'
-- '10:34am'
-- '10:31am'
-- '10:27am'
-- '10:23am'
-- '10:19am'
-- '10:14am'
-- '10:10am'
-- '10:05am'
-- '10:00am'
+- '11:38 am PT'
+- '11:30 am PT'
+- '11:25 am PT'
+- '11:19 am PT'
+- '11:14 am PT'
+- '11:10 am PT'
+- '11:05 am PT'
+- '11:02 am PT'
+- '10:57 am PT'
+- '10:54 am PT'
+- '10:51 am PT'
+- '10:48 am PT'
+- '10:45 am PT'
+- '10:41 am PT'
+- '10:37 am PT'
+- '10:34 am PT'
+- '10:31 am PT'
+- '10:27 am PT'
+- '10:23 am PT'
+- '10:19 am PT'
+- '10:14 am PT'
+- '10:10 am PT'
+- '10:05 am PT'
+- '10:00 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :801:
-- '11:41am'
+- '11:41 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '11:23am'
+- '11:23 am PT'
 - NONE
 - NONE
-- '11:14am'
+- '11:14 am PT'
 - NONE
-- '11:10am'
-- NONE
-- NONE
-- '11:04am'
+- '11:10 am PT'
 - NONE
 - NONE
-- '10:58am'
+- '11:04 am PT'
 - NONE
 - NONE
-- '10:50am'
-- '10:45am'
+- '10:58 am PT'
 - NONE
 - NONE
-- '10:35am'
+- '10:50 am PT'
+- '10:45 am PT'
+- NONE
+- NONE
+- '10:35 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :429:
-- '12:38pm'
-- '12:30pm'
-- '12:25pm'
-- '12:19pm'
-- '12:14pm'
-- '12:10pm'
-- '12:05pm'
-- '12:02pm'
-- '11:57am'
-- '11:54am'
-- '11:51am'
-- '11:48am'
-- '11:45am'
-- '11:41am'
-- '11:37am'
-- '11:34am'
-- '11:31am'
-- '11:27am'
-- '11:23am'
-- '11:19am'
-- '11:14am'
-- '11:10am'
-- '11:05am'
-- '11:00am'
+- '12:38 pm PT'
+- '12:30 pm PT'
+- '12:25 pm PT'
+- '12:19 pm PT'
+- '12:14 pm PT'
+- '12:10 pm PT'
+- '12:05 pm PT'
+- '12:02 pm PT'
+- '11:57 am PT'
+- '11:54 am PT'
+- '11:51 am PT'
+- '11:48 am PT'
+- '11:45 am PT'
+- '11:41 am PT'
+- '11:37 am PT'
+- '11:34 am PT'
+- '11:31 am PT'
+- '11:27 am PT'
+- '11:23 am PT'
+- '11:19 am PT'
+- '11:14 am PT'
+- '11:10 am PT'
+- '11:05 am PT'
+- '11:00 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :431:
-- '1:38pm'
-- '1:30pm'
-- '1:25pm'
-- '1:19pm'
-- '1:14pm'
-- '1:10pm'
-- '1:05pm'
-- '1:02pm'
-- '12:57pm'
-- '12:54pm'
-- '12:51pm'
-- '12:48pm'
-- '12:45pm'
-- '12:41pm'
-- '12:37pm'
-- '12:34pm'
-- '12:31pm'
-- '12:27pm'
-- '12:23pm'
-- '12:19pm'
-- '12:14pm'
-- '12:10pm'
-- '12:05pm'
-- '12:00pm'
+- '1:38 pm PT'
+- '1:30 pm PT'
+- '1:25 pm PT'
+- '1:19 pm PT'
+- '1:14 pm PT'
+- '1:10 pm PT'
+- '1:05 pm PT'
+- '1:02 pm PT'
+- '12:57 pm PT'
+- '12:54 pm PT'
+- '12:51 pm PT'
+- '12:48 pm PT'
+- '12:45 pm PT'
+- '12:41 pm PT'
+- '12:37 pm PT'
+- '12:34 pm PT'
+- '12:31 pm PT'
+- '12:27 pm PT'
+- '12:23 pm PT'
+- '12:19 pm PT'
+- '12:14 pm PT'
+- '12:10 pm PT'
+- '12:05 pm PT'
+- '12:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :433:
-- '2:38pm'
-- '2:30pm'
-- '2:25pm'
-- '2:19pm'
-- '2:14pm'
-- '2:10pm'
-- '2:05pm'
-- '2:02pm'
-- '1:57pm'
-- '1:54pm'
-- '1:51pm'
-- '1:48pm'
-- '1:45pm'
-- '1:41pm'
-- '1:37pm'
-- '1:34pm'
-- '1:31pm'
-- '1:27pm'
-- '1:23pm'
-- '1:19pm'
-- '1:14pm'
-- '1:10pm'
-- '1:05pm'
-- '1:00pm'
+- '2:38 pm PT'
+- '2:30 pm PT'
+- '2:25 pm PT'
+- '2:19 pm PT'
+- '2:14 pm PT'
+- '2:10 pm PT'
+- '2:05 pm PT'
+- '2:02 pm PT'
+- '1:57 pm PT'
+- '1:54 pm PT'
+- '1:51 pm PT'
+- '1:48 pm PT'
+- '1:45 pm PT'
+- '1:41 pm PT'
+- '1:37 pm PT'
+- '1:34 pm PT'
+- '1:31 pm PT'
+- '1:27 pm PT'
+- '1:23 pm PT'
+- '1:19 pm PT'
+- '1:14 pm PT'
+- '1:10 pm PT'
+- '1:05 pm PT'
+- '1:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :435:
-- '3:38pm'
-- '3:30pm'
-- '3:25pm'
-- '3:19pm'
-- '3:14pm'
-- '3:10pm'
-- '3:05pm'
-- '3:02pm'
-- '2:57pm'
-- '2:54pm'
-- '2:51pm'
-- '2:48pm'
-- '2:45pm'
-- '2:41pm'
-- '2:37pm'
-- '2:34pm'
-- '2:31pm'
-- '2:27pm'
-- '2:23pm'
-- '2:19pm'
-- '2:14pm'
-- '2:10pm'
-- '2:05pm'
-- '2:00pm'
+- '3:38 pm PT'
+- '3:30 pm PT'
+- '3:25 pm PT'
+- '3:19 pm PT'
+- '3:14 pm PT'
+- '3:10 pm PT'
+- '3:05 pm PT'
+- '3:02 pm PT'
+- '2:57 pm PT'
+- '2:54 pm PT'
+- '2:51 pm PT'
+- '2:48 pm PT'
+- '2:45 pm PT'
+- '2:41 pm PT'
+- '2:37 pm PT'
+- '2:34 pm PT'
+- '2:31 pm PT'
+- '2:27 pm PT'
+- '2:23 pm PT'
+- '2:19 pm PT'
+- '2:14 pm PT'
+- '2:10 pm PT'
+- '2:05 pm PT'
+- '2:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :437:
-- '4:38pm'
-- '4:30pm'
-- '4:25pm'
-- '4:19pm'
-- '4:14pm'
-- '4:10pm'
-- '4:05pm'
-- '4:02pm'
-- '3:57pm'
-- '3:54pm'
-- '3:51pm'
-- '3:48pm'
-- '3:45pm'
-- '3:41pm'
-- '3:37pm'
-- '3:34pm'
-- '3:31pm'
-- '3:27pm'
-- '3:23pm'
-- '3:19pm'
-- '3:14pm'
-- '3:10pm'
-- '3:05pm'
-- '3:00pm'
+- '4:38 pm PT'
+- '4:30 pm PT'
+- '4:25 pm PT'
+- '4:19 pm PT'
+- '4:14 pm PT'
+- '4:10 pm PT'
+- '4:05 pm PT'
+- '4:02 pm PT'
+- '3:57 pm PT'
+- '3:54 pm PT'
+- '3:51 pm PT'
+- '3:48 pm PT'
+- '3:45 pm PT'
+- '3:41 pm PT'
+- '3:37 pm PT'
+- '3:34 pm PT'
+- '3:31 pm PT'
+- '3:27 pm PT'
+- '3:23 pm PT'
+- '3:19 pm PT'
+- '3:14 pm PT'
+- '3:10 pm PT'
+- '3:05 pm PT'
+- '3:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :439:
-- '5:38pm'
-- '5:30pm'
-- '5:25pm'
-- '5:19pm'
-- '5:14pm'
-- '5:10pm'
-- '5:05pm'
-- '5:02pm'
-- '4:57pm'
-- '4:54pm'
-- '4:51pm'
-- '4:48pm'
-- '4:45pm'
-- '4:41pm'
-- '4:37pm'
-- '4:34pm'
-- '4:31pm'
-- '4:27pm'
-- '4:23pm'
-- '4:19pm'
-- '4:14pm'
-- '4:10pm'
-- '4:05pm'
-- '4:00pm'
+- '5:38 pm PT'
+- '5:30 pm PT'
+- '5:25 pm PT'
+- '5:19 pm PT'
+- '5:14 pm PT'
+- '5:10 pm PT'
+- '5:05 pm PT'
+- '5:02 pm PT'
+- '4:57 pm PT'
+- '4:54 pm PT'
+- '4:51 pm PT'
+- '4:48 pm PT'
+- '4:45 pm PT'
+- '4:41 pm PT'
+- '4:37 pm PT'
+- '4:34 pm PT'
+- '4:31 pm PT'
+- '4:27 pm PT'
+- '4:23 pm PT'
+- '4:19 pm PT'
+- '4:14 pm PT'
+- '4:10 pm PT'
+- '4:05 pm PT'
+- '4:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :441:
-- '6:38pm'
-- '6:30pm'
-- '6:25pm'
-- '6:19pm'
-- '6:14pm'
-- '6:10pm'
-- '6:05pm'
-- '6:02pm'
-- '5:57pm'
-- '5:54pm'
-- '5:51pm'
-- '5:48pm'
-- '5:45pm'
-- '5:41pm'
-- '5:37pm'
-- '5:34pm'
-- '5:31pm'
-- '5:27pm'
-- '5:23pm'
-- '5:19pm'
-- '5:14pm'
-- '5:10pm'
-- '5:05pm'
-- '5:00pm'
+- '6:38 pm PT'
+- '6:30 pm PT'
+- '6:25 pm PT'
+- '6:19 pm PT'
+- '6:14 pm PT'
+- '6:10 pm PT'
+- '6:05 pm PT'
+- '6:02 pm PT'
+- '5:57 pm PT'
+- '5:54 pm PT'
+- '5:51 pm PT'
+- '5:48 pm PT'
+- '5:45 pm PT'
+- '5:41 pm PT'
+- '5:37 pm PT'
+- '5:34 pm PT'
+- '5:31 pm PT'
+- '5:27 pm PT'
+- '5:23 pm PT'
+- '5:19 pm PT'
+- '5:14 pm PT'
+- '5:10 pm PT'
+- '5:05 pm PT'
+- '5:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :803:
-- '6:41pm'
+- '6:41 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '6:23pm'
+- '6:23 pm PT'
 - NONE
 - NONE
-- '6:14pm'
+- '6:14 pm PT'
 - NONE
-- '6:10pm'
-- NONE
-- NONE
-- '6:04pm'
+- '6:10 pm PT'
 - NONE
 - NONE
-- '5:58pm'
+- '6:04 pm PT'
 - NONE
 - NONE
-- '5:50pm'
-- '5:45pm'
+- '5:58 pm PT'
 - NONE
 - NONE
-- '5:35pm'
+- '5:50 pm PT'
+- '5:45 pm PT'
+- NONE
+- NONE
+- '5:35 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :443:
-- '7:38pm'
-- '7:30pm'
-- '7:25pm'
-- '7:19pm'
-- '7:14pm'
-- '7:10pm'
-- '7:05pm'
-- '7:02pm'
-- '6:57pm'
-- '6:54pm'
-- '6:51pm'
-- '6:48pm'
-- '6:45pm'
-- '6:41pm'
-- '6:37pm'
-- '6:34pm'
-- '6:31pm'
-- '6:27pm'
-- '6:23pm'
-- '6:19pm'
-- '6:14pm'
-- '6:10pm'
-- '6:05pm'
-- '6:00pm'
+- '7:38 pm PT'
+- '7:30 pm PT'
+- '7:25 pm PT'
+- '7:19 pm PT'
+- '7:14 pm PT'
+- '7:10 pm PT'
+- '7:05 pm PT'
+- '7:02 pm PT'
+- '6:57 pm PT'
+- '6:54 pm PT'
+- '6:51 pm PT'
+- '6:48 pm PT'
+- '6:45 pm PT'
+- '6:41 pm PT'
+- '6:37 pm PT'
+- '6:34 pm PT'
+- '6:31 pm PT'
+- '6:27 pm PT'
+- '6:23 pm PT'
+- '6:19 pm PT'
+- '6:14 pm PT'
+- '6:10 pm PT'
+- '6:05 pm PT'
+- '6:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :445:
-- '8:38pm'
-- '8:30pm'
-- '8:25pm'
-- '8:19pm'
-- '8:14pm'
-- '8:10pm'
-- '8:05pm'
-- '8:02pm'
-- '7:57pm'
-- '7:54pm'
-- '7:51pm'
-- '7:48pm'
-- '7:45pm'
-- '7:41pm'
-- '7:37pm'
-- '7:34pm'
-- '7:31pm'
-- '7:27pm'
-- '7:23pm'
-- '7:19pm'
-- '7:14pm'
-- '7:10pm'
-- '7:05pm'
-- '7:00pm'
+- '8:38 pm PT'
+- '8:30 pm PT'
+- '8:25 pm PT'
+- '8:19 pm PT'
+- '8:14 pm PT'
+- '8:10 pm PT'
+- '8:05 pm PT'
+- '8:02 pm PT'
+- '7:57 pm PT'
+- '7:54 pm PT'
+- '7:51 pm PT'
+- '7:48 pm PT'
+- '7:45 pm PT'
+- '7:41 pm PT'
+- '7:37 pm PT'
+- '7:34 pm PT'
+- '7:31 pm PT'
+- '7:27 pm PT'
+- '7:23 pm PT'
+- '7:19 pm PT'
+- '7:14 pm PT'
+- '7:10 pm PT'
+- '7:05 pm PT'
+- '7:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :447:
-- '9:38pm'
-- '9:30pm'
-- '9:25pm'
-- '9:19pm'
-- '9:14pm'
-- '9:10pm'
-- '9:05pm'
-- '9:02pm'
-- '8:57pm'
-- '8:54pm'
-- '8:51pm'
-- '8:48pm'
-- '8:45pm'
-- '8:41pm'
-- '8:37pm'
-- '8:34pm'
-- '8:31pm'
-- '8:27pm'
-- '8:23pm'
-- '8:19pm'
-- '8:14pm'
-- '8:10pm'
-- '8:05pm'
-- '8:00pm'
+- '9:38 pm PT'
+- '9:30 pm PT'
+- '9:25 pm PT'
+- '9:19 pm PT'
+- '9:14 pm PT'
+- '9:10 pm PT'
+- '9:05 pm PT'
+- '9:02 pm PT'
+- '8:57 pm PT'
+- '8:54 pm PT'
+- '8:51 pm PT'
+- '8:48 pm PT'
+- '8:45 pm PT'
+- '8:41 pm PT'
+- '8:37 pm PT'
+- '8:34 pm PT'
+- '8:31 pm PT'
+- '8:27 pm PT'
+- '8:23 pm PT'
+- '8:19 pm PT'
+- '8:14 pm PT'
+- '8:10 pm PT'
+- '8:05 pm PT'
+- '8:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :449:
-- '10:38pm'
-- '10:30pm'
-- '10:25pm'
-- '10:19pm'
-- '10:14pm'
-- '10:10pm'
-- '10:05pm'
-- '10:02pm'
-- '9:57pm'
-- '9:54pm'
-- '9:51pm'
-- '9:48pm'
-- '9:45pm'
-- '9:41pm'
-- '9:37pm'
-- '9:34pm'
-- '9:31pm'
-- '9:27pm'
-- '9:23pm'
-- '9:19pm'
-- '9:14pm'
-- '9:10pm'
-- '9:05pm'
-- '9:00pm'
+- '10:38 pm PT'
+- '10:30 pm PT'
+- '10:25 pm PT'
+- '10:19 pm PT'
+- '10:14 pm PT'
+- '10:10 pm PT'
+- '10:05 pm PT'
+- '10:02 pm PT'
+- '9:57 pm PT'
+- '9:54 pm PT'
+- '9:51 pm PT'
+- '9:48 pm PT'
+- '9:45 pm PT'
+- '9:41 pm PT'
+- '9:37 pm PT'
+- '9:34 pm PT'
+- '9:31 pm PT'
+- '9:27 pm PT'
+- '9:23 pm PT'
+- '9:19 pm PT'
+- '9:14 pm PT'
+- '9:10 pm PT'
+- '9:05 pm PT'
+- '9:00 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :451:
-- '12:08pm'
-- '12:00pm'
-- '11:55pm'
-- '11:49pm'
-- '11:44pm'
-- '11:40pm'
-- '11:35pm'
-- '11:32pm'
-- '11:27pm'
-- '11:24pm'
-- '11:21pm'
-- '11:18pm'
-- '11:15pm'
-- '11:11pm'
-- '11:07pm'
-- '11:04pm'
-- '11:01pm'
-- '10:57pm'
-- '10:53pm'
-- '10:49pm'
-- '10:44pm'
-- '10:40pm'
-- '10:35pm'
-- '10:30pm'
+- '12:08 pm PT'
+- '12:00 pm PT'
+- '11:55 pm PT'
+- '11:49 pm PT'
+- '11:44 pm PT'
+- '11:40 pm PT'
+- '11:35 pm PT'
+- '11:32 pm PT'
+- '11:27 pm PT'
+- '11:24 pm PT'
+- '11:21 pm PT'
+- '11:18 pm PT'
+- '11:15 pm PT'
+- '11:11 pm PT'
+- '11:07 pm PT'
+- '11:04 pm PT'
+- '11:01 pm PT'
+- '10:57 pm PT'
+- '10:53 pm PT'
+- '10:49 pm PT'
+- '10:44 pm PT'
+- '10:40 pm PT'
+- '10:35 pm PT'
+- '10:30 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :422:
-- '8:15am'
-- '8:20am'
-- '8:25am'
-- '8:31am'
-- '8:35am'
-- '8:39am'
-- '8:43am'
-- '8:45am'
-- '8:51am'
-- '8:54am'
-- '8:57am'
-- '9:00am'
-- '9:03am'
-- '9:09am'
-- '9:13am'
-- '9:16am'
-- '9:19am'
-- '9:23am'
-- '9:27am'
-- '9:31am'
-- '9:36am'
-- '9:40am'
-- '9:45am'
-- '9:53am'
+- '8:15 am PT'
+- '8:20 am PT'
+- '8:25 am PT'
+- '8:31 am PT'
+- '8:35 am PT'
+- '8:39 am PT'
+- '8:43 am PT'
+- '8:45 am PT'
+- '8:51 am PT'
+- '8:54 am PT'
+- '8:57 am PT'
+- '9:00 am PT'
+- '9:03 am PT'
+- '9:09 am PT'
+- '9:13 am PT'
+- '9:16 am PT'
+- '9:19 am PT'
+- '9:23 am PT'
+- '9:27 am PT'
+- '9:31 am PT'
+- '9:36 am PT'
+- '9:40 am PT'
+- '9:45 am PT'
+- '9:53 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :424:
-- '9:15am'
-- '9:20am'
-- '9:25am'
-- '9:31am'
-- '9:35am'
-- '9:39am'
-- '9:43am'
-- '9:45am'
-- '9:51am'
-- '9:54am'
-- '9:57am'
-- '10:00am'
-- '10:03am'
-- '10:09am'
-- '10:13am'
-- '10:16am'
-- '10:19am'
-- '10:23am'
-- '10:27am'
-- '10:31am'
-- '10:36am'
-- '10:40am'
-- '10:45am'
-- '10:53am'
+- '9:15 am PT'
+- '9:20 am PT'
+- '9:25 am PT'
+- '9:31 am PT'
+- '9:35 am PT'
+- '9:39 am PT'
+- '9:43 am PT'
+- '9:45 am PT'
+- '9:51 am PT'
+- '9:54 am PT'
+- '9:57 am PT'
+- '10:00 am PT'
+- '10:03 am PT'
+- '10:09 am PT'
+- '10:13 am PT'
+- '10:16 am PT'
+- '10:19 am PT'
+- '10:23 am PT'
+- '10:27 am PT'
+- '10:31 am PT'
+- '10:36 am PT'
+- '10:40 am PT'
+- '10:45 am PT'
+- '10:53 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :426:
-- '10:15am'
-- '10:20am'
-- '10:25am'
-- '10:31am'
-- '10:35am'
-- '10:39am'
-- '10:43am'
-- '10:45am'
-- '10:51am'
-- '10:54am'
-- '10:57am'
-- '11:00am'
-- '11:03am'
-- '11:09am'
-- '11:13am'
-- '11:16am'
-- '11:19am'
-- '11:23am'
-- '11:27am'
-- '11:31am'
-- '11:36am'
-- '11:40am'
-- '11:45am'
-- '11:53am'
+- '10:15 am PT'
+- '10:20 am PT'
+- '10:25 am PT'
+- '10:31 am PT'
+- '10:35 am PT'
+- '10:39 am PT'
+- '10:43 am PT'
+- '10:45 am PT'
+- '10:51 am PT'
+- '10:54 am PT'
+- '10:57 am PT'
+- '11:00 am PT'
+- '11:03 am PT'
+- '11:09 am PT'
+- '11:13 am PT'
+- '11:16 am PT'
+- '11:19 am PT'
+- '11:23 am PT'
+- '11:27 am PT'
+- '11:31 am PT'
+- '11:36 am PT'
+- '11:40 am PT'
+- '11:45 am PT'
+- '11:53 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :428:
-- '11:15am'
-- '11:20am'
-- '11:25am'
-- '11:31am'
-- '11:35am'
-- '11:39am'
-- '11:43am'
-- '11:45am'
-- '11:51am'
-- '11:54am'
-- '11:57am'
-- '12:00pm'
-- '12:03pm'
-- '12:09pm'
-- '12:13pm'
-- '12:16pm'
-- '12:19pm'
-- '12:23pm'
-- '12:27pm'
-- '12:31pm'
-- '12:36pm'
-- '12:40pm'
-- '12:45pm'
-- '12:53pm'
+- '11:15 am PT'
+- '11:20 am PT'
+- '11:25 am PT'
+- '11:31 am PT'
+- '11:35 am PT'
+- '11:39 am PT'
+- '11:43 am PT'
+- '11:45 am PT'
+- '11:51 am PT'
+- '11:54 am PT'
+- '11:57 am PT'
+- '12:00 pm PT'
+- '12:03 pm PT'
+- '12:09 pm PT'
+- '12:13 pm PT'
+- '12:16 pm PT'
+- '12:19 pm PT'
+- '12:23 pm PT'
+- '12:27 pm PT'
+- '12:31 pm PT'
+- '12:36 pm PT'
+- '12:40 pm PT'
+- '12:45 pm PT'
+- '12:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :802:
-- '11:59am'
+- '11:59 am PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '12:15pm'
+- '12:15 pm PT'
 - NONE
 - NONE
-- '12:23pm'
+- '12:23 pm PT'
 - NONE
-- '12:27pm'
-- NONE
-- NONE
-- '12:35pm'
+- '12:27 pm PT'
 - NONE
 - NONE
-- '12:41pm'
+- '12:35 pm PT'
 - NONE
 - NONE
-- '12:49pm'
-- '12:54pm'
+- '12:41 pm PT'
 - NONE
 - NONE
-- '1:05pm'
+- '12:49 pm PT'
+- '12:54 pm PT'
+- NONE
+- NONE
+- '1:05 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :430:
-- '12:15pm'
-- '12:20pm'
-- '12:25pm'
-- '12:31pm'
-- '12:35pm'
-- '12:39pm'
-- '12:43pm'
-- '12:45pm'
-- '12:51pm'
-- '12:54pm'
-- '12:57pm'
-- '1:00pm'
-- '1:03pm'
-- '1:09pm'
-- '1:13pm'
-- '1:16pm'
-- '1:19pm'
-- '1:23pm'
-- '1:27pm'
-- '1:31pm'
-- '1:36pm'
-- '1:40pm'
-- '1:45pm'
-- '1:53pm'
+- '12:15 pm PT'
+- '12:20 pm PT'
+- '12:25 pm PT'
+- '12:31 pm PT'
+- '12:35 pm PT'
+- '12:39 pm PT'
+- '12:43 pm PT'
+- '12:45 pm PT'
+- '12:51 pm PT'
+- '12:54 pm PT'
+- '12:57 pm PT'
+- '1:00 pm PT'
+- '1:03 pm PT'
+- '1:09 pm PT'
+- '1:13 pm PT'
+- '1:16 pm PT'
+- '1:19 pm PT'
+- '1:23 pm PT'
+- '1:27 pm PT'
+- '1:31 pm PT'
+- '1:36 pm PT'
+- '1:40 pm PT'
+- '1:45 pm PT'
+- '1:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :432:
-- '1:15pm'
-- '1:20pm'
-- '1:25pm'
-- '1:31pm'
-- '1:35pm'
-- '1:39pm'
-- '1:43pm'
-- '1:45pm'
-- '1:51pm'
-- '1:54pm'
-- '1:57pm'
-- '2:00pm'
-- '2:03pm'
-- '2:09pm'
-- '2:13pm'
-- '2:16pm'
-- '2:19pm'
-- '2:23pm'
-- '2:27pm'
-- '2:31pm'
-- '2:36pm'
-- '2:40pm'
-- '2:45pm'
-- '2:53pm'
+- '1:15 pm PT'
+- '1:20 pm PT'
+- '1:25 pm PT'
+- '1:31 pm PT'
+- '1:35 pm PT'
+- '1:39 pm PT'
+- '1:43 pm PT'
+- '1:45 pm PT'
+- '1:51 pm PT'
+- '1:54 pm PT'
+- '1:57 pm PT'
+- '2:00 pm PT'
+- '2:03 pm PT'
+- '2:09 pm PT'
+- '2:13 pm PT'
+- '2:16 pm PT'
+- '2:19 pm PT'
+- '2:23 pm PT'
+- '2:27 pm PT'
+- '2:31 pm PT'
+- '2:36 pm PT'
+- '2:40 pm PT'
+- '2:45 pm PT'
+- '2:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :434:
-- '2:15pm'
-- '2:20pm'
-- '2:25pm'
-- '2:31pm'
-- '2:35pm'
-- '2:39pm'
-- '2:43pm'
-- '2:45pm'
-- '2:51pm'
-- '2:54pm'
-- '2:57pm'
-- '3:00pm'
-- '3:03pm'
-- '3:09pm'
-- '3:13pm'
-- '3:16pm'
-- '3:19pm'
-- '3:23pm'
-- '3:27pm'
-- '3:31pm'
-- '3:36pm'
-- '3:40pm'
-- '3:45pm'
-- '3:53pm'
+- '2:15 pm PT'
+- '2:20 pm PT'
+- '2:25 pm PT'
+- '2:31 pm PT'
+- '2:35 pm PT'
+- '2:39 pm PT'
+- '2:43 pm PT'
+- '2:45 pm PT'
+- '2:51 pm PT'
+- '2:54 pm PT'
+- '2:57 pm PT'
+- '3:00 pm PT'
+- '3:03 pm PT'
+- '3:09 pm PT'
+- '3:13 pm PT'
+- '3:16 pm PT'
+- '3:19 pm PT'
+- '3:23 pm PT'
+- '3:27 pm PT'
+- '3:31 pm PT'
+- '3:36 pm PT'
+- '3:40 pm PT'
+- '3:45 pm PT'
+- '3:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :436:
-- '3:15pm'
-- '3:20pm'
-- '3:25pm'
-- '3:31pm'
-- '3:35pm'
-- '3:39pm'
-- '3:43pm'
-- '3:45pm'
-- '3:51pm'
-- '3:54pm'
-- '3:57pm'
-- '4:00pm'
-- '4:03pm'
-- '4:09pm'
-- '4:13pm'
-- '4:16pm'
-- '4:19pm'
-- '4:23pm'
-- '4:27pm'
-- '4:31pm'
-- '4:36pm'
-- '4:40pm'
-- '4:45pm'
-- '4:53pm'
+- '3:15 pm PT'
+- '3:20 pm PT'
+- '3:25 pm PT'
+- '3:31 pm PT'
+- '3:35 pm PT'
+- '3:39 pm PT'
+- '3:43 pm PT'
+- '3:45 pm PT'
+- '3:51 pm PT'
+- '3:54 pm PT'
+- '3:57 pm PT'
+- '4:00 pm PT'
+- '4:03 pm PT'
+- '4:09 pm PT'
+- '4:13 pm PT'
+- '4:16 pm PT'
+- '4:19 pm PT'
+- '4:23 pm PT'
+- '4:27 pm PT'
+- '4:31 pm PT'
+- '4:36 pm PT'
+- '4:40 pm PT'
+- '4:45 pm PT'
+- '4:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :438:
-- '4:15pm'
-- '4:20pm'
-- '4:25pm'
-- '4:31pm'
-- '4:35pm'
-- '4:39pm'
-- '4:43pm'
-- '4:45pm'
-- '4:51pm'
-- '4:54pm'
-- '4:57pm'
-- '5:00pm'
-- '5:03pm'
-- '5:09pm'
-- '5:13pm'
-- '5:16pm'
-- '5:19pm'
-- '5:23pm'
-- '5:27pm'
-- '5:31pm'
-- '5:36pm'
-- '5:40pm'
-- '5:45pm'
-- '5:53pm'
+- '4:15 pm PT'
+- '4:20 pm PT'
+- '4:25 pm PT'
+- '4:31 pm PT'
+- '4:35 pm PT'
+- '4:39 pm PT'
+- '4:43 pm PT'
+- '4:45 pm PT'
+- '4:51 pm PT'
+- '4:54 pm PT'
+- '4:57 pm PT'
+- '5:00 pm PT'
+- '5:03 pm PT'
+- '5:09 pm PT'
+- '5:13 pm PT'
+- '5:16 pm PT'
+- '5:19 pm PT'
+- '5:23 pm PT'
+- '5:27 pm PT'
+- '5:31 pm PT'
+- '5:36 pm PT'
+- '5:40 pm PT'
+- '5:45 pm PT'
+- '5:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :440:
-- '5:15pm'
-- '5:20pm'
-- '5:25pm'
-- '5:31pm'
-- '5:35pm'
-- '5:39pm'
-- '5:43pm'
-- '5:45pm'
-- '5:51pm'
-- '5:54pm'
-- '5:57pm'
-- '6:00pm'
-- '6:03pm'
-- '6:09pm'
-- '6:13pm'
-- '6:16pm'
-- '6:19pm'
-- '6:23pm'
-- '6:27pm'
-- '6:31pm'
-- '6:36pm'
-- '6:40pm'
-- '6:45pm'
-- '6:53pm'
+- '5:15 pm PT'
+- '5:20 pm PT'
+- '5:25 pm PT'
+- '5:31 pm PT'
+- '5:35 pm PT'
+- '5:39 pm PT'
+- '5:43 pm PT'
+- '5:45 pm PT'
+- '5:51 pm PT'
+- '5:54 pm PT'
+- '5:57 pm PT'
+- '6:00 pm PT'
+- '6:03 pm PT'
+- '6:09 pm PT'
+- '6:13 pm PT'
+- '6:16 pm PT'
+- '6:19 pm PT'
+- '6:23 pm PT'
+- '6:27 pm PT'
+- '6:31 pm PT'
+- '6:36 pm PT'
+- '6:40 pm PT'
+- '6:45 pm PT'
+- '6:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :442:
-- '6:15pm'
-- '6:20pm'
-- '6:25pm'
-- '6:31pm'
-- '6:35pm'
-- '6:39pm'
-- '6:43pm'
-- '6:45pm'
-- '6:51pm'
-- '6:54pm'
-- '6:57pm'
-- '7:00pm'
-- '7:03pm'
-- '7:09pm'
-- '7:13pm'
-- '7:16pm'
-- '7:19pm'
-- '7:23pm'
-- '7:27pm'
-- '7:31pm'
-- '7:36pm'
-- '7:40pm'
-- '7:45pm'
-- '7:53pm'
+- '6:15 pm PT'
+- '6:20 pm PT'
+- '6:25 pm PT'
+- '6:31 pm PT'
+- '6:35 pm PT'
+- '6:39 pm PT'
+- '6:43 pm PT'
+- '6:45 pm PT'
+- '6:51 pm PT'
+- '6:54 pm PT'
+- '6:57 pm PT'
+- '7:00 pm PT'
+- '7:03 pm PT'
+- '7:09 pm PT'
+- '7:13 pm PT'
+- '7:16 pm PT'
+- '7:19 pm PT'
+- '7:23 pm PT'
+- '7:27 pm PT'
+- '7:31 pm PT'
+- '7:36 pm PT'
+- '7:40 pm PT'
+- '7:45 pm PT'
+- '7:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :804:
-- '6:59pm'
+- '6:59 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
-- '7:15pm'
+- '7:15 pm PT'
 - NONE
 - NONE
-- '7:23pm'
+- '7:23 pm PT'
 - NONE
-- '7:27pm'
-- NONE
-- NONE
-- '7:35pm'
+- '7:27 pm PT'
 - NONE
 - NONE
-- '7:41pm'
+- '7:35 pm PT'
 - NONE
 - NONE
-- '7:49pm'
-- '7:54pm'
+- '7:41 pm PT'
 - NONE
 - NONE
-- '8:05pm'
+- '7:49 pm PT'
+- '7:54 pm PT'
+- NONE
+- NONE
+- '8:05 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :444:
-- '7:15pm'
-- '7:20pm'
-- '7:25pm'
-- '7:31pm'
-- '7:35pm'
-- '7:39pm'
-- '7:43pm'
-- '7:45pm'
-- '7:51pm'
-- '7:54pm'
-- '7:57pm'
-- '8:00pm'
-- '8:03pm'
-- '8:09pm'
-- '8:13pm'
-- '8:16pm'
-- '8:19pm'
-- '8:23pm'
-- '8:27pm'
-- '8:31pm'
-- '8:36pm'
-- '8:40pm'
-- '8:45pm'
-- '8:53pm'
+- '7:15 pm PT'
+- '7:20 pm PT'
+- '7:25 pm PT'
+- '7:31 pm PT'
+- '7:35 pm PT'
+- '7:39 pm PT'
+- '7:43 pm PT'
+- '7:45 pm PT'
+- '7:51 pm PT'
+- '7:54 pm PT'
+- '7:57 pm PT'
+- '8:00 pm PT'
+- '8:03 pm PT'
+- '8:09 pm PT'
+- '8:13 pm PT'
+- '8:16 pm PT'
+- '8:19 pm PT'
+- '8:23 pm PT'
+- '8:27 pm PT'
+- '8:31 pm PT'
+- '8:36 pm PT'
+- '8:40 pm PT'
+- '8:45 pm PT'
+- '8:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :446:
-- '8:15pm'
-- '8:20pm'
-- '8:25pm'
-- '8:31pm'
-- '8:35pm'
-- '8:39pm'
-- '8:43pm'
-- '8:45pm'
-- '8:51pm'
-- '8:54pm'
-- '8:57pm'
-- '9:00pm'
-- '9:03pm'
-- '9:09pm'
-- '9:13pm'
-- '9:16pm'
-- '9:19pm'
-- '9:23pm'
-- '9:27pm'
-- '9:31pm'
-- '9:36pm'
-- '9:40pm'
-- '9:45pm'
-- '9:53pm'
+- '8:15 pm PT'
+- '8:20 pm PT'
+- '8:25 pm PT'
+- '8:31 pm PT'
+- '8:35 pm PT'
+- '8:39 pm PT'
+- '8:43 pm PT'
+- '8:45 pm PT'
+- '8:51 pm PT'
+- '8:54 pm PT'
+- '8:57 pm PT'
+- '9:00 pm PT'
+- '9:03 pm PT'
+- '9:09 pm PT'
+- '9:13 pm PT'
+- '9:16 pm PT'
+- '9:19 pm PT'
+- '9:23 pm PT'
+- '9:27 pm PT'
+- '9:31 pm PT'
+- '9:36 pm PT'
+- '9:40 pm PT'
+- '9:45 pm PT'
+- '9:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :448:
-- '9:15pm'
-- '9:20pm'
-- '9:25pm'
-- '9:31pm'
-- '9:35pm'
-- '9:39pm'
-- '9:43pm'
-- '9:45pm'
-- '9:51pm'
-- '9:54pm'
-- '9:57pm'
-- '10:00pm'
-- '10:03pm'
-- '10:09pm'
-- '10:13pm'
-- '10:16pm'
-- '10:19pm'
-- '10:23pm'
-- '10:27pm'
-- '10:31pm'
-- '10:36pm'
-- '10:40pm'
-- '10:45pm'
-- '10:53pm'
+- '9:15 pm PT'
+- '9:20 pm PT'
+- '9:25 pm PT'
+- '9:31 pm PT'
+- '9:35 pm PT'
+- '9:39 pm PT'
+- '9:43 pm PT'
+- '9:45 pm PT'
+- '9:51 pm PT'
+- '9:54 pm PT'
+- '9:57 pm PT'
+- '10:00 pm PT'
+- '10:03 pm PT'
+- '10:09 pm PT'
+- '10:13 pm PT'
+- '10:16 pm PT'
+- '10:19 pm PT'
+- '10:23 pm PT'
+- '10:27 pm PT'
+- '10:31 pm PT'
+- '10:36 pm PT'
+- '10:40 pm PT'
+- '10:45 pm PT'
+- '10:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :450:
-- '10:15pm'
-- '10:20pm'
-- '10:25pm'
-- '10:31pm'
-- '10:35pm'
-- '10:39pm'
-- '10:43pm'
-- '10:45pm'
-- '10:51pm'
-- '10:54pm'
-- '10:57pm'
-- '11:00pm'
-- '11:03pm'
-- '11:09pm'
-- '11:13pm'
-- '11:16pm'
-- '11:19pm'
-- '11:23pm'
-- '11:27pm'
-- '11:31pm'
-- '11:36pm'
-- '11:40pm'
-- '11:45pm'
-- '11:53pm'
+- '10:15 pm PT'
+- '10:20 pm PT'
+- '10:25 pm PT'
+- '10:31 pm PT'
+- '10:35 pm PT'
+- '10:39 pm PT'
+- '10:43 pm PT'
+- '10:45 pm PT'
+- '10:51 pm PT'
+- '10:54 pm PT'
+- '10:57 pm PT'
+- '11:00 pm PT'
+- '11:03 pm PT'
+- '11:09 pm PT'
+- '11:13 pm PT'
+- '11:16 pm PT'
+- '11:19 pm PT'
+- '11:23 pm PT'
+- '11:27 pm PT'
+- '11:31 pm PT'
+- '11:36 pm PT'
+- '11:40 pm PT'
+- '11:45 pm PT'
+- '11:53 pm PT'
 - NONE
 - NONE
 - NONE
 - NONE
 - NONE
 :454:
-- '12:01pm'
-- '12:06pm'
-- '12:11pm'
-- '12:17pm'
-- '12:21pm'
-- '12:25pm'
-- '12:29pm'
-- '12:31pm'
-- '12:37pm'
-- '12:40pm'
-- '12:43pm'
-- '12:46pm'
-- '12:49pm'
-- '12:55pm'
-- '12:59pm'
-- '1:02pm'
-- '1:05pm'
-- '1:09pm'
-- '1:13pm'
-- '1:17pm'
-- '1:22pm'
-- '1:26pm'
-- '1:31pm'
-- '1:39pm'
+- '12:01 pm PT'
+- '12:06 pm PT'
+- '12:11 pm PT'
+- '12:17 pm PT'
+- '12:21 pm PT'
+- '12:25 pm PT'
+- '12:29 pm PT'
+- '12:31 pm PT'
+- '12:37 pm PT'
+- '12:40 pm PT'
+- '12:43 pm PT'
+- '12:46 pm PT'
+- '12:49 pm PT'
+- '12:55 pm PT'
+- '12:59 pm PT'
+- '1:02 pm PT'
+- '1:05 pm PT'
+- '1:09 pm PT'
+- '1:13 pm PT'
+- '1:17 pm PT'
+- '1:22 pm PT'
+- '1:26 pm PT'
+- '1:31 pm PT'
+- '1:39 pm PT'
 - NONE
 - NONE
 - NONE

@@ -6,7 +6,7 @@ class TrainsController < ApplicationController
   end
 
   def show
-    @stops = @train.northbound? ? @train.stops.reverse_order : @train.stops
+    @stops = @train.stops.order(:time)
   end
 
   def new

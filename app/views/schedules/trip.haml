@@ -17,5 +17,5 @@
     - @trains.each do |train|
       %tr
         %td= link_to train.number, train
-        %td= Stop.where(train: train, station: @start).first.time
-        %td= Stop.where(train: train, station: @ending).first.time
+        %td= train.stop_for(@start).display_time
+        %td= train.stop_for(@ending).display_time

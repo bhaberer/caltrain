@@ -15,7 +15,7 @@
         - @south.each do |stop|
           %tr
             %td= link_to stop.train_number, stop.train
-            %td= stop.time
+            %td= stop.display_time
   .col-md-6
     - if @station.first?
       %h2 No Trains leave northbound from this station.
@@ -26,4 +26,4 @@
         - @north.each do |stop|
           %tr
             %td= link_to stop.train_number, stop.train
-            %td= stop.time
+            %td= stop.display_time

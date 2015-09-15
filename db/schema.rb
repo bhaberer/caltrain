@@ -26,7 +26,7 @@ ActiveRecord::Schema.define(version: 20150722231547) do
   end
 
   create_table "stops", force: :cascade do |t|
-    t.string   "time"
+    t.datetime "time"
     t.integer  "train_id"
     t.integer  "station_id"
     t.datetime "created_at", null: false
