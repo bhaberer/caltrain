@@ -3,14 +3,17 @@ class Train < ActiveRecord::Base
   has_many :stops, dependent: :destroy
   has_many :stations, through: :stops
 
+  validates :schedule, presence: true,
+                      inclusion: { in: %w(weekday weekend) }
+  validates :direction, presence: true,
+                        inclusion: { in: %w(south north) }
+  validates :origin_time,  presence: true
   validates :number, presence: true,
                      uniqueness: true,
                      numericality: true,
                      length: { is: 3 }
 
-  def order
-    stops.first.time
-  end
+  default_scope { order('origin_time') }
 
   def to_param
     number.to_s
@@ -33,15 +36,11 @@ class Train < ActiveRecord::Base
   end
 
   def weekend?
-    [4, 8].include?(number.to_s[0].to_i)
+    !weekday?
   end
 
   def weekday?
-    !weekend?
-  end
-
-  def direction
-    number.even? ? :south : :north
+    schedule == 'weekend'
   end
 
   [:south, :north].each do |dir|
