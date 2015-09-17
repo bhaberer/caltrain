@@ -31,7 +31,7 @@ group :development, :test do
   gem 'web-console', '~> 2.0'
   gem 'rspec-rails'
   gem 'factory_girl_rails'
-
-  # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
+  gem 'simplecov', require: false
+  gem 'autotest-rails'
   gem 'spring'
 end
