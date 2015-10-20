@@ -1,8 +1,8 @@
 FactoryGirl.define do
   factory :stop do
-    time "MyString"
-train nil
-station nil
+    time Time.now
+    direction 'north'
+    train
+    station
   end
-
 end
