@@ -15,3 +15,8 @@
 //= require bootstrap-sprockets
 //= require turbolinks
 //= require_tree .
+
+
+$(document).on('click', '#hide_trains', function(e) {
+  $('#trains .departed').toggle();
+});

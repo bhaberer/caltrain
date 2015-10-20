@@ -18,6 +18,7 @@
     %tr
       %td{ colspan: 4 }
         = return_trip_button(@destination, @origin, params[:type])
+        = link_to 'Toggle departed Trains', '#', id: 'hide_trains', class: 'btn btn-info'
     %tr
       %th Train number
       %th= @origin.name
