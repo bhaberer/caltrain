@@ -2,20 +2,33 @@
   = form_tag('/trip', method: :get) do
     .form-group
       = label_tag :s1, 'Departing:'
-      = select_tag(:s1, options_for_select(@stations), class: 'form-control')
+      = select_tag(:s1, options_for_select(@stations, params[:s1]), class: 'form-control')
     .form-group
       = label_tag :s2, 'Destination:'
-      = select_tag(:s2, options_for_select(@stations), class: 'form-control')
+      = select_tag(:s2, options_for_select(@stations, params[:s2]), class: 'form-control')
+    .form-group
+      = label_tag :type, 'Schedule Type:'
+      = select_tag(:type, options_for_select([['Weekday', :weekday], ['Weekend', :weekend]]), class: 'form-control')
+
     = submit_tag 'Get Trains', class: 'btn btn-info'
 
 - else
-  %table.table.table-striped
+
+  %table.table.table-striped#trains
+    %tr
+      %td{ colspan: 4 }
+        = return_trip_button(@destination, @origin, params[:type])
     %tr
       %th Train number
-      %th= @start.name
-      %th= @ending.name
+      %th= @origin.name
+      %th= @destination.name
+      %th Duration
     - @trains.each do |train|
-      %tr
+      %tr[train]{ class: "#{train.schedule_type} #{train.stop_for(@origin).comp_time < Time.zone.now ? :departed : :departing}" }
         %td= link_to train.number, train
-        %td= train.stop_for(@start).display_time
-        %td= train.stop_for(@ending).display_time
+        %td= train.stop_for(@origin).display_time
+        %td= train.stop_for(@destination).display_time
+        %td= distance_of_time_in_words(train.stop_for(@origin).time, train.stop_for(@destination).time)
+    %tr
+      %td{ colspan: 4 }
+        = button_to 'Show Return Trip', "?s1=#{@destination.to_param}&s2=#{@origin.to_param}&type=#{params[:type]}", class: 'btn btn-info'

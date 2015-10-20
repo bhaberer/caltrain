@@ -4,11 +4,11 @@ class SchedulesController < ApplicationController
     if params[:s1] == params[:s2]
       render :trip, notice: "Stations can't be the same."
     elsif params[:s1].present? && params[:s2].present?
-      @start = Station.find_by_param(params[:s1])
-      @ending = Station.find_by_param(params[:s2])
-      travel_dir = @start.sequence < @ending.sequence ? :south : :north
-      @trains = (@start.trains & @ending.trains)
-      @trains.delete_if { |train| train.direction != travel_dir }
+      @origin = Station.find_by_param(params[:s1])
+      @destination = Station.find_by_param(params[:s2])
+
+      @trains = Train.traveling_between(@origin, @destination, params[:type])
+      @trains.sort! { |a,b| a.number.to_s[1,2] <=> b.number.to_s[1,2] }
     end
   end
 

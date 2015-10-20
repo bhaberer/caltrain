@@ -6,4 +6,15 @@ body {
     font-size: 6pt;
     color: #777;
   }
+  #trains {
+    .limited {
+      background-color: #ddb474
+    }
+    .local {
+      background-color: #EEEEEE
+    }
+    .bullet {
+      background-color: darkred;
+    }
+  }
 }

@@ -34,10 +34,12 @@
                 %li= link_to 'Caltrain Twitter', '#', { 'tabindex' => '-1' }
     .container{ id: [params[:controller], '_', params[:action]].join, style: 'margin-top: 60px; padding-bottom: 70px;' }
       - if notice.present? || alert.present?
-        .alert.alert-warning
-          %button.close{ type: :button, 'data-dismiss' => :alert } &times;
-          = notice
-          = alert
+        .row
+          .col-md-6.col-md-offset-3
+            .alert.alert-warning
+              %button.close{ type: :button, 'data-dismiss' => :alert } &times;
+              = notice
+              = alert
       .row
         .col-md-6.col-md-offset-3
           = yield
