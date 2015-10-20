@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
-ruby '2.2.2'
+ruby '2.2.3'
 
 gem 'rails', '4.2.1'
+gem 'psych', '1.3.4'
 gem 'pg'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
@@ -32,6 +33,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'factory_girl_rails'
   gem 'simplecov', require: false
-  gem 'autotest-rails'
+  gem 'database_cleaner', "~> 1.2.0"
+  gem 'guard-rspec', require: false
   gem 'spring'
 end
