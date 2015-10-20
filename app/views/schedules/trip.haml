@@ -31,4 +31,4 @@
         %td= distance_of_time_in_words(train.stop_for(@origin).time, train.stop_for(@destination).time)
     %tr
       %td{ colspan: 4 }
-        = button_to 'Show Return Trip', "?s1=#{@destination.to_param}&s2=#{@origin.to_param}&type=#{params[:type]}", class: 'btn btn-info'
+        = return_trip_button(@destination, @origin, params[:type])
