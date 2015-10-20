@@ -4,10 +4,8 @@ class Station < ActiveRecord::Base
   has_many :trains, through: :stops
 
   validates :name, presence: true
-  validates :zone, presence: true,
-                   numericality: true
-  validates :sequence, presence: true,
-                       numericality: true
+  validates :zone, presence: true, numericality: true
+  validates :sequence, presence: true, numericality: true
 
   after_create :generate_uid
 

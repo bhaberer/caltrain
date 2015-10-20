@@ -17,4 +17,8 @@ class Stop < ActiveRecord::Base
   def display_time
     time.strftime('%l:%M%P')
   end
+
+  def comp_time
+    Time.parse(display_time, Time.now)
+  end
 end
